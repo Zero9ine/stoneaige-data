@@ -783,39 +783,111 @@
       },
       {
         "type": "text",
-        "content": "고귀한 장비 이미지 변경/신비한 장비 이미지 변경 이미지 업그레이드 전 업그레이드 후 업그레이드 증폭 찬란한 헤티아의 투구 고귀한 헤티아의 투구 순발 +5 찬란한 헤티아의 갑옷 고귀한 헤티아의 갑옷 방어 +5 찬란한 헤티아의 창 고귀한 헤티아의 창 공격 +5 찬란한 헤티아의 활 고귀한 헤티아의 활 공격 +5 이미지 업그레이드 전 업그레이드 후 업그레이드 증폭 고귀한 헤티아의 투구 신비한 헤티아의 투구 순발 +5 고귀한 헤티아의 갑옷 신비한 헤티아의 갑옷 방어 +5 고귀한 헤티아의 창 신비한 헤티아의 창 공격 +5 고귀한 헤티아의 활 신비한 헤티아의 활[7-8회] 공격 +5"
+        "content": "이미지"
+      },
+      {
+        "type": "text",
+        "content": "업그레이드 전"
+      },
+      {
+        "type": "text",
+        "content": "업그레이드 후"
+      },
+      {
+        "type": "text",
+        "content": "업그레이드 증폭"
       },
       {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2605/97224b638a3e6e51e1bfc4a2f53ded1b_1779791716_2949.png"
       },
       {
+        "type": "text",
+        "content": "찬란한 헤티아의 투구"
+      },
+      {
+        "type": "text",
+        "content": "고귀한 헤티아의 투구"
+      },
+      {
+        "type": "text",
+        "content": "순발 +5"
+      },
+      {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2605/97224b638a3e6e51e1bfc4a2f53ded1b_1779791716_6548.png"
+      },
+      {
+        "type": "text",
+        "content": "찬란한 헤티아의 갑옷"
+      },
+      {
+        "type": "text",
+        "content": "고귀한 헤티아의 갑옷"
+      },
+      {
+        "type": "text",
+        "content": "방어 +5"
       },
       {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2605/97224b638a3e6e51e1bfc4a2f53ded1b_1779791719_6962.png"
       },
       {
+        "type": "text",
+        "content": "찬란한 헤티아의 창"
+      },
+      {
+        "type": "text",
+        "content": "고귀한 헤티아의 창"
+      },
+      {
+        "type": "text",
+        "content": "공격 +5"
+      },
+      {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2605/97224b638a3e6e51e1bfc4a2f53ded1b_1779791720_0537.png"
+      },
+      {
+        "type": "text",
+        "content": "찬란한 헤티아의 활"
+      },
+      {
+        "type": "text",
+        "content": "고귀한 헤티아의 활"
       },
       {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2605/97224b638a3e6e51e1bfc4a2f53ded1b_1779791726_3884.png"
       },
       {
+        "type": "text",
+        "content": "신비한 헤티아의 투구"
+      },
+      {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2605/97224b638a3e6e51e1bfc4a2f53ded1b_1779791726_7422.png"
+      },
+      {
+        "type": "text",
+        "content": "신비한 헤티아의 갑옷"
       },
       {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2605/97224b638a3e6e51e1bfc4a2f53ded1b_1779791727_0978.png"
       },
       {
+        "type": "text",
+        "content": "신비한 헤티아의 창"
+      },
+      {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2605/97224b638a3e6e51e1bfc4a2f53ded1b_1779791727_4533.png"
+      },
+      {
+        "type": "text",
+        "content": "신비한 헤티아의 활[7-8회]"
       },
       {
         "type": "text",
@@ -1074,10 +1146,6 @@
         "content": "대상 펫: 현무 (변종 이미지는 임시로 (골드색상 현무)이미지를 사용하며 추후 신규 이미지 제작완료시 교체할 예정입니다. 각성97%/변종3%)"
       },
       {
-        "type": "text",
-        "content": "메가호크: 추후 업뎃예정 메가호크: 각성96%/변종4%"
-      },
-      {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2605/425a7f4123a913dcebde56edc9b30efc_1778322092_4042.png"
       },
@@ -1316,6 +1384,10 @@
       {
         "type": "text",
         "content": "2. 펫 150레벨 돌파 아이템 출시"
+      },
+      {
+        "type": "text",
+        "content": "아이템 명: 돌파의열매 3"
       },
       {
         "type": "text",
@@ -1604,10 +1676,6 @@
       {
         "type": "text",
         "content": "신규 펫 탑승 추가"
-      },
-      {
-        "type": "text",
-        "content": "홍모가 신규 펫 탑승으로 추가되었습니다."
       },
       {
         "type": "image",
@@ -1927,7 +1995,99 @@
       },
       {
         "type": "text",
-        "content": "새로운 펫이 추가됩니다. 샴기르 점령전 콘텐츠 안내 샴기르 점령전은 부족 단위로 진행되는 5vs5 전투 콘텐츠입니다. 전투 방식 파티 전투가 아닌 개인 단위 입장 콘텐츠입니다. 입장 시 모든 파티는 자동으로 해제됩니다. 동일 부족으로 입장한 최대 5명은 자동으로 한 팀으로 판정됩니다. 파티는 존재하지 않으나, 전투는 자동으로 5vs5 팀전으로 진행됩니다. 전투 판정 기준 동일 부족 유저는 아군으로 판정됩니다. 다른 부족 유저만 공격할 수 있습니다. 다대일 전투가 가능하며, 전투는 1vs1 구조가 아닙니다. 힐 / 버프 적용 제한 파티 힐 및 파티 버프 효과는 적용되지 않습니다. 직접 대상 지정 스킬만 사용 가능합니다. 탈락 및 종료 조건 전투 중 패배 시 해당 캐릭터만 탈락 및 퇴장 처리됩니다. 탈락 이후 재입장은 불가능합니다. 최종적으로 생존한 부족이 샴기르를 점령합니다. 참여 인원 제한 부족당 최대 5명까지 참여 가능합니다. 점령 보상 점령 1위 보상: 메가기로 (검은색 변종 테이노스)"
+        "content": "신규 펫 추가"
+      },
+      {
+        "type": "text",
+        "content": "새로운 펫이 추가됩니다."
+      },
+      {
+        "type": "text",
+        "content": "샴기르 점령전 콘텐츠 안내"
+      },
+      {
+        "type": "text",
+        "content": "샴기르 점령전은 부족 단위로 진행되는 5vs5 전투 콘텐츠입니다."
+      },
+      {
+        "type": "text",
+        "content": "전투 방식"
+      },
+      {
+        "type": "text",
+        "content": "파티 전투가 아닌 개인 단위 입장 콘텐츠입니다."
+      },
+      {
+        "type": "text",
+        "content": "입장 시 모든 파티는 자동으로 해제됩니다."
+      },
+      {
+        "type": "text",
+        "content": "동일 부족으로 입장한 최대 5명은 자동으로 한 팀으로 판정됩니다."
+      },
+      {
+        "type": "text",
+        "content": "파티는 존재하지 않으나, 전투는 자동으로 5vs5 팀전으로 진행됩니다."
+      },
+      {
+        "type": "text",
+        "content": "전투 판정 기준"
+      },
+      {
+        "type": "text",
+        "content": "동일 부족 유저는 아군으로 판정됩니다."
+      },
+      {
+        "type": "text",
+        "content": "다른 부족 유저만 공격할 수 있습니다."
+      },
+      {
+        "type": "text",
+        "content": "다대일 전투가 가능하며, 전투는 1vs1 구조가 아닙니다."
+      },
+      {
+        "type": "text",
+        "content": "힐 / 버프 적용 제한"
+      },
+      {
+        "type": "text",
+        "content": "파티 힐 및 파티 버프 효과는 적용되지 않습니다."
+      },
+      {
+        "type": "text",
+        "content": "직접 대상 지정 스킬만 사용 가능합니다."
+      },
+      {
+        "type": "text",
+        "content": "탈락 및 종료 조건"
+      },
+      {
+        "type": "text",
+        "content": "전투 중 패배 시 해당 캐릭터만 탈락 및 퇴장 처리됩니다."
+      },
+      {
+        "type": "text",
+        "content": "탈락 이후 재입장은 불가능합니다."
+      },
+      {
+        "type": "text",
+        "content": "최종적으로 생존한 부족이 샴기르를 점령합니다."
+      },
+      {
+        "type": "text",
+        "content": "참여 인원 제한"
+      },
+      {
+        "type": "text",
+        "content": "부족당 최대 5명까지 참여 가능합니다."
+      },
+      {
+        "type": "text",
+        "content": "점령 보상"
+      },
+      {
+        "type": "text",
+        "content": "점령 1위 보상: 메가기로 (검은색 변종 테이노스)"
       },
       {
         "type": "image",
@@ -2048,6 +2208,10 @@
       {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2512/d165ee6b9f2c622a819582b748448fb7_1766133882_9308.png"
+      },
+      {
+        "type": "text",
+        "content": "﻿"
       },
       {
         "type": "text",
@@ -2307,6 +2471,10 @@
       },
       {
         "type": "text",
+        "content": "[펫 최대 레벨 확장]"
+      },
+      {
+        "type": "text",
         "content": "﻿ 기존 펫 최대 레벨 140 → 145로 확장 됩니다."
       },
       {
@@ -2331,11 +2499,35 @@
       },
       {
         "type": "text",
-        "content": "140레벨 이상 펫을 재활용 하면 재활용 포인트 를 획득할 수 있습니다. ​ 획득한 포인트는 재활용 포인트 상점 에서 다양한 아이템으로 교환할 수 있습니다. [교환 가능 아이템 예시] 특별한 펫 진화의 물약 그 외 희귀 아이템 다수"
+        "content": "140레벨 이상 펫을 재활용 하면 재활용 포인트 를 획득할 수 있습니다. ​"
+      },
+      {
+        "type": "text",
+        "content": "획득한 포인트는 재활용 포인트 상점 에서 다양한 아이템으로 교환할 수 있습니다."
+      },
+      {
+        "type": "text",
+        "content": "[교환 가능 아이템 예시]"
+      },
+      {
+        "type": "text",
+        "content": "특별한 펫"
+      },
+      {
+        "type": "text",
+        "content": "진화의 물약"
+      },
+      {
+        "type": "text",
+        "content": "그 외 희귀 아이템 다수"
       },
       {
         "type": "image",
         "url": "https://www.hwansoo.top/data/editor/2511/953c40b648841cf490c486f8c1276c20_1762924177_9187.gif"
+      },
+      {
+        "type": "text",
+        "content": "[신규 페트 추가] 신규 페트 지주작 마아곤 메가리스키 메가르곤"
       },
       {
         "type": "image",
@@ -2595,7 +2787,11 @@
       },
       {
         "type": "text",
-        "content": "공 +5 ~ +8, 방 +6 ~ +7, 순 -3 ~ -5 부활의 정령 Lv2"
+        "content": "공 +5 ~ +8, 방 +6 ~ +7, 순 -3 ~ -5"
+      },
+      {
+        "type": "text",
+        "content": "부활의 정령 Lv2"
       },
       {
         "type": "image",

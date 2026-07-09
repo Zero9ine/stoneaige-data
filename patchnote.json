@@ -7,27 +7,33 @@
     "blocks": [
       {
         "type": "text",
-        "content": "⚙️ 게임 업데이트 안내"
+        "content": "⚙️ 게임 업데이트 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "존경하는 유저 여러분, 7월1일 오후 8시에 업데이트를 진행하겠습니다."
+        "content": "존경하는 유저 여러분, 7월1일 오후 8시에 업데이트를 진행하겠습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 신규 및 환생 펫 시스템 업데이트"
+        "content": "⚙️ 신규 및 환생 펫 시스템 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 펫 출시"
+        "content": "신규 펫 출시",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 펫 복어 출시"
+        "content": "신규 펫 복어 출시",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "획득 방식: 맘모스 쿠폰 특등상"
+        "content": "획득 방식: 맘모스 쿠폰 특등상",
+        "heading": false
       },
       {
         "type": "image",
@@ -39,7 +45,8 @@
       },
       {
         "type": "text",
-        "content": "기존 고공·고순 펫 편중 현상을 개선하고자 저순 펫을 출시했습니다. 앞으로 다양한 스탯 펫을 추가해 밸런스를 정상화하겠습니다."
+        "content": "기존 고공·고순 펫 편중 현상을 개선하고자 저순 펫을 출시했습니다. 앞으로 다양한 스탯 펫을 추가해 밸런스를 정상화하겠습니다.",
+        "heading": false
       },
       {
         "type": "image",
@@ -47,15 +54,18 @@
       },
       {
         "type": "text",
-        "content": "복어류 펫으로 변신 가능합니다(능치는 그대로입니다)"
+        "content": "복어류 펫으로 변신 가능합니다(능치는 그대로입니다)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "자격 조건: 피/공격/방어/순발 S+ 등급 복어류 펫 + 복어 변신템(스톤 상점 구매)"
+        "content": "자격 조건: 피/공격/방어/순발 S+ 등급 복어류 펫 + 복어 변신템(스톤 상점 구매)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "변신 완료 시 전용 특수 공격 모션을 사용할 수 있습니다"
+        "content": "변신 완료 시 전용 특수 공격 모션을 사용할 수 있습니다",
+        "heading": false
       },
       {
         "type": "image",
@@ -63,19 +73,23 @@
       },
       {
         "type": "text",
-        "content": "신규 펫 싸가트 출시"
+        "content": "신규 펫 싸가트 출시",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "획득 방식: 천하 제일 듀얼 1등상"
+        "content": "획득 방식: 천하 제일 듀얼 1등상",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "신규 펫 격수 출시"
+        "content": "신규 펫 격수 출시",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "획득 방식: 빕 상점"
+        "content": "획득 방식: 빕 상점",
+        "heading": false
       },
       {
         "type": "image",
@@ -83,11 +97,13 @@
       },
       {
         "type": "text",
-        "content": "환생 펫 추가"
+        "content": "환생 펫 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "환생 펫 2종 추가 (리어룬, 시어룬)"
+        "content": "환생 펫 2종 추가 (리어룬, 시어룬)",
+        "heading": false
       },
       {
         "type": "image",
@@ -95,35 +111,43 @@
       },
       {
         "type": "text",
-        "content": "⚙️ 페트 스킬 2가지 출시(모든 페트 배우기 가능)"
+        "content": "⚙️ 페트 스킬 2가지 출시(모든 페트 배우기 가능)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "획득방식 및 가격: 배수의 진 3과 동일"
+        "content": "획득방식 및 가격: 배수의 진 3과 동일",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "일격필살 2: 2.5배의 데미지를 주지만 명중율 하락"
+        "content": "일격필살 2: 2.5배의 데미지를 주지만 명중율 하락",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "모아치기 2: 한턴 휴식 및 데미지50%감소. 다음 턴에서 2배의 데미지로 공격."
+        "content": "모아치기 2: 한턴 휴식 및 데미지50%감소. 다음 턴에서 2배의 데미지로 공격.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "이번 신규 스킬 2종은 배수의 진3 편중 현상을 해소하기 위해 출시했으며, 다양한 스킬 활용 유도로 밸런스를 조절하기 위함입니다."
+        "content": "이번 신규 스킬 2종은 배수의 진3 편중 현상을 해소하기 위해 출시했으며, 다양한 스킬 활용 유도로 밸런스를 조절하기 위함입니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 신규 장비 출시"
+        "content": "⚙️ 신규 장비 출시",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 장비 출시"
+        "content": "신규 장비 출시",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "흑갈푸스의 귀걸이"
+        "content": "흑갈푸스의 귀걸이",
+        "heading": false
       },
       {
         "type": "image",
@@ -131,7 +155,8 @@
       },
       {
         "type": "text",
-        "content": "라돈타의 귀걸이(진) 업글 장비 - 라돈 귀걸이(극) - 사용1회 300만 스톤/성공확율40%"
+        "content": "라돈타의 귀걸이(진) 업글 장비 - 라돈 귀걸이(극) - 사용1회 300만 스톤/성공확율40%",
+        "heading": false
       },
       {
         "type": "image",
@@ -139,107 +164,133 @@
       },
       {
         "type": "text",
-        "content": "⚙️ 맘모스 쿠폰 보상 조정"
+        "content": "⚙️ 맘모스 쿠폰 보상 조정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "맘모스 쿠폰 보상 리스트 업데이트"
+        "content": "맘모스 쿠폰 보상 리스트 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "[특등상]"
+        "content": "[특등상]",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "<복어류> 알/<기계 말류> 알"
+        "content": "<복어류> 알/<기계 말류> 알",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "초증구, 이무기 알, 스텟초기화권, 장비 초기화권, 모아치기2, 일격필살2,"
+        "content": "초증구, 이무기 알, 스텟초기화권, 장비 초기화권, 모아치기2, 일격필살2,",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "100만스톤 템, 교복울보변신템(3일)"
+        "content": "100만스톤 템, 교복울보변신템(3일)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "기술확장권, 펫 학습팔찌, 경험치구슬(12h), 경험치구슬(8h), 경험치구슬(4h)"
+        "content": "기술확장권, 펫 학습팔찌, 경험치구슬(12h), 경험치구슬(8h), 경험치구슬(4h)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "100회 확정보상"
+        "content": "100회 확정보상",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "디어룬"
+        "content": "디어룬",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 시스템 및 이벤트 업데이트"
+        "content": "⚙️ 시스템 및 이벤트 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기타 시스템 업데이트"
+        "content": "기타 시스템 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "라돈타 도전 추가권 출시(스톤 상점)"
+        "content": "라돈타 도전 추가권 출시(스톤 상점)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "낚시 이벤트 진행(패치후부터 7일 진행)"
+        "content": "낚시 이벤트 진행(패치후부터 7일 진행)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "누적충전 보상 조정"
+        "content": "누적충전 보상 조정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 패치 후 전체 유저 보상"
+        "content": "⚙️ 패치 후 전체 유저 보상",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "전체 유저 보상 지급"
+        "content": "전체 유저 보상 지급",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "전체 유저에게 절망의 열쇠 1개 지급 (1 캐릭터당 1개)"
+        "content": "전체 유저에게 절망의 열쇠 1개 지급 (1 캐릭터당 1개)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "패치 후부터 24시간 안으로 수령가능. 7일안으로 사용하셔야 합니다. 안 사용할 경우 사라집니다."
+        "content": "패치 후부터 24시간 안으로 수령가능. 7일안으로 사용하셔야 합니다. 안 사용할 경우 사라집니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 버그 오류 수정"
+        "content": "⚙️ 버그 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "시스템 오류 수정"
+        "content": "시스템 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "라돈타 귀걸이에 회피율 표기 누락된 부분 수정"
+        "content": "라돈타 귀걸이에 회피율 표기 누락된 부분 수정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "E코스 NPC 이미지 추가, 불그리 획득 확률 조정"
+        "content": "E코스 NPC 이미지 추가, 불그리 획득 확률 조정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "일일 퀴즈 내용 수정"
+        "content": "일일 퀴즈 내용 수정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "닉네임 변경 관련 오류 수정"
+        "content": "닉네임 변경 관련 오류 수정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "아이템 계정공용창고추가권 / 계정페트창고추가권 거래가능으로 수정 (이미 해당템들 보유하신 유저들은 창고에 넣엇다가 다시 빼면 거래가능으로 변경됩니다)"
+        "content": "아이템 계정공용창고추가권 / 계정페트창고추가권 거래가능으로 수정 (이미 해당템들 보유하신 유저들은 창고에 넣엇다가 다시 빼면 거래가능으로 변경됩니다)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "보다 안정적인 게임 서비스 환경을 위하여 지속적으로 시스템 개선을 진행하겠습니다. 유저 여러분의 많은 이용 부탁드립니다."
+        "content": "보다 안정적인 게임 서비스 환경을 위하여 지속적으로 시스템 개선을 진행하겠습니다. 유저 여러분의 많은 이용 부탁드립니다.",
+        "heading": false
       }
     ]
   },
@@ -251,23 +302,28 @@
     "blocks": [
       {
         "type": "text",
-        "content": "⚙️ 게임 업데이트 안내"
+        "content": "⚙️ 게임 업데이트 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "존경하는 유저 여러분, 6월12일 오후 8시20분에 업데이트를 진행하겠습니다."
+        "content": "존경하는 유저 여러분, 6월12일 오후 8시20분에 업데이트를 진행하겠습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 시스템 신규 기능 및 개선"
+        "content": "⚙️ 시스템 신규 기능 및 개선",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 자동 PK 기능 출시 (클릭하여 규칙 펼치기/접기)"
+        "content": "1. 자동 PK 기능 출시 (클릭하여 규칙 펼치기/접기)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "정듀/천하제일 자동 PK 기능 출시 (공성전 제외) 본 기능은 6월21일 부터 적용됩니다 자동 듀얼 인게임 상세 설명 페이지 링크: https://hwansoo.top/weekly_league/index.html 금주 듀얼은 디코 공지대로 수동으로 진행 됩니다"
+        "content": "정듀/천하제일 자동 PK 기능 출시 (공성전 제외) 본 기능은 6월21일 부터 적용됩니다 자동 듀얼 인게임 상세 설명 페이지 링크: https://hwansoo.top/weekly_league/index.html 금주 듀얼은 디코 공지대로 수동으로 진행 됩니다",
+        "heading": false
       },
       {
         "type": "image",
@@ -275,119 +331,148 @@
       },
       {
         "type": "text",
-        "content": "■ 신청/참가 NPC 위치"
+        "content": "■ 신청/참가 NPC 위치",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "샴기르 마을 (64,75)"
+        "content": "샴기르 마을 (64,75)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "■ 일정 안내"
+        "content": "■ 일정 안내",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "매월 첫 3주(일요일) 간 정규듀얼 2회 / 천하제일 1회"
+        "content": "매월 첫 3주(일요일) 간 정규듀얼 2회 / 천하제일 1회",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "신청 기간：매주 월요일 12:00 ~ 금요일 20:00"
+        "content": "신청 기간：매주 월요일 12:00 ~ 금요일 20:00",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "대전 시간：매주 일요일 20:00 (신청 마감 후 자동으로 대진표 생성)"
+        "content": "대전 시간：매주 일요일 20:00 (신청 마감 후 자동으로 대진표 생성)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "■ 신청 절차"
+        "content": "■ 신청 절차",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "회차별 최대 32팀까지 참가 가능하며 정원 마감 시 접수가 종료됩니다. 신청 후 취소는 불가합니다."
+        "content": "회차별 최대 32팀까지 참가 가능하며 정원 마감 시 접수가 종료됩니다. 신청 후 취소는 불가합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "팀장이 정식 멤버 5명을 모두 파티로 구성한 뒤 NPC와 대화하여 팀을 등록하세요. 해당 5명이 정식 참가자로 지정됩니다."
+        "content": "팀장이 정식 멤버 5명을 모두 파티로 구성한 뒤 NPC와 대화하여 팀을 등록하세요. 해당 5명이 정식 참가자로 지정됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "팀 등록 시 팀장에게서 2만 골드가 보증금으로 차감되며, 정상 참가한 경우 승패 여부와 관계없이 보증금이 반환됩니다."
+        "content": "팀 등록 시 팀장에게서 2만 골드가 보증금으로 차감되며, 정상 참가한 경우 승패 여부와 관계없이 보증금이 반환됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "팀 등록 완료 후 팀장이 후보 선수를 파티에 추가하고 NPC와 대화하면 등록이 가능합니다. 후보 선수는 최대 2명까지 등록할 수 있으며, 반드시 동일 라인에 위치해야 합니다."
+        "content": "팀 등록 완료 후 팀장이 후보 선수를 파티에 추가하고 NPC와 대화하면 등록이 가능합니다. 후보 선수는 최대 2명까지 등록할 수 있으며, 반드시 동일 라인에 위치해야 합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "본 사이트에서 실시간 신청 인원, 대진표 및 역대 기록을 확인하실 수 있습니다."
+        "content": "본 사이트에서 실시간 신청 인원, 대진표 및 역대 기록을 확인하실 수 있습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "참가 팀이 20팀 미만일 경우 해당 회차 대회는 취소되며, 보증금이 전액 반환됩니다."
+        "content": "참가 팀이 20팀 미만일 경우 해당 회차 대회는 취소되며, 보증금이 전액 반환됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "■ 대회 규정"
+        "content": "■ 대회 규정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "팀장은 정식 멤버 4명 또는 후보 선수와 함께 입장하여 대회에 참가하세요."
+        "content": "팀장은 정식 멤버 4명 또는 후보 선수와 함께 입장하여 대회에 참가하세요.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "대회 중 팀장이 중앙 NPC와 대화하면 선수 교체를 신청할 수 있으며, 교체 횟수에 제한이 없습니다. (상대 팀도 동일 라인에 접속해야 함)"
+        "content": "대회 중 팀장이 중앙 NPC와 대화하면 선수 교체를 신청할 수 있으며, 교체 횟수에 제한이 없습니다. (상대 팀도 동일 라인에 접속해야 함)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "모든 대진은 시스템이 자동으로 배정하며, 전 라운드 모든 경기가 종료된 후 3분 뒤 다음 라운드가 시작됩니다."
+        "content": "모든 대진은 시스템이 자동으로 배정하며, 전 라운드 모든 경기가 종료된 후 3분 뒤 다음 라운드가 시작됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "각 라운드는 3판 2선승제로 진행되며, 패배 팀은 PK 필드에서 퇴장 처리됩니다. 상위 4위 팀이 결정될 때까지 경기는 계속됩니다."
+        "content": "각 라운드는 3판 2선승제로 진행되며, 패배 팀은 PK 필드에서 퇴장 처리됩니다. 상위 4위 팀이 결정될 때까지 경기는 계속됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "무기와 펫 스킬 사용은 제한이 없으나, 요정 사용은 금지됩니다."
+        "content": "무기와 펫 스킬 사용은 제한이 없으나, 요정 사용은 금지됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "펫 탑승이 불가합니다."
+        "content": "펫 탑승이 불가합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "경기 전 구간에서 모든 소모품 아이템 사용이 금지됩니다."
+        "content": "경기 전 구간에서 모든 소모품 아이템 사용이 금지됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "경기 도중 로그아웃하거나 접속이 끊길(팅김) 경우 해당 경기는 즉시 기권(0:2) 처리되며, 참가 자격과 보상이 박탈됩니다. 보증금도 반환되지 않습니다."
+        "content": "경기 도중 로그아웃하거나 접속이 끊길(팅김) 경우 해당 경기는 즉시 기권(0:2) 처리되며, 참가 자격과 보상이 박탈됩니다. 보증금도 반환되지 않습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "대회 취소 안내：참가 팀이 20팀 미만일 경우 해당 회차 대회가 취소되며, 납부한 보증금은 전액 반환됩니다."
+        "content": "대회 취소 안내：참가 팀이 20팀 미만일 경우 해당 회차 대회가 취소되며, 납부한 보증금은 전액 반환됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "■ 대회 보상"
+        "content": "■ 대회 보상",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "순위 보상(정식 멤버)：상위 4위 팀에게 보상이 지급됩니다. 자세한 내용은 이미지 참고, 정식 멤버 5명에게 우편으로 자동 지급됩니다."
+        "content": "순위 보상(정식 멤버)：상위 4위 팀에게 보상이 지급됩니다. 자세한 내용은 이미지 참고, 정식 멤버 5명에게 우편으로 자동 지급됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "경기 승리 보상：매 경기 승리 시 2 전투 포인트를 획득합니다."
+        "content": "경기 승리 보상：매 경기 승리 시 2 전투 포인트를 획득합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "패배 보상：후보 포함 참전 후 패배하여 퇴장한 인원에게 1인당 추가 전투 포인트 5점이 지급됩니다. (상위 4위 팀 제외)"
+        "content": "패배 보상：후보 포함 참전 후 패배하여 퇴장한 인원에게 1인당 추가 전투 포인트 5점이 지급됩니다. (상위 4위 팀 제외)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "2. 랭킹 시스템 개선"
+        "content": "2. 랭킹 시스템 개선",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "게임 내 랭킹 시스템 일괄 검색 기능 추가"
+        "content": "게임 내 랭킹 시스템 일괄 검색 기능 추가",
+        "heading": false
       },
       {
         "type": "image",
@@ -395,11 +480,13 @@
       },
       {
         "type": "text",
-        "content": "3. 펫 선택 창 UI 개선"
+        "content": "3. 펫 선택 창 UI 개선",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "사망한 펫 히트박스가 회색으로 표시되도록"
+        "content": "사망한 펫 히트박스가 회색으로 표시되도록",
+        "heading": false
       },
       {
         "type": "image",
@@ -407,27 +494,33 @@
       },
       {
         "type": "text",
-        "content": "⚙️ 아이템 관련 변경"
+        "content": "⚙️ 아이템 관련 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 스톤 아이템 추가"
+        "content": "1. 스톤 아이템 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "스톤 상점에 500만 스톤 아이템 추가"
+        "content": "스톤 상점에 500만 스톤 아이템 추가",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "2. 두가지 시스템 개선"
+        "content": "2. 두가지 시스템 개선",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "당첨안내 월드 알람 전광판 활성화"
+        "content": "당첨안내 월드 알람 전광판 활성화",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[기간 한정 아이템] 일시 아이템 설명에 표시되는 기능 추가"
+        "content": "[기간 한정 아이템] 일시 아이템 설명에 표시되는 기능 추가",
+        "heading": false
       },
       {
         "type": "image",
@@ -435,51 +528,63 @@
       },
       {
         "type": "text",
-        "content": "3. 빕 상점 판매 물품 조정"
+        "content": "3. 빕 상점 판매 물품 조정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "변경 후 추가된 알: 샤크론, 초크론, 다크론, 설표, 레피온, 바우트"
+        "content": "변경 후 추가된 알: 샤크론, 초크론, 다크론, 설표, 레피온, 바우트",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "4. 맘모스 쿠폰 보상 리스트 변경"
+        "content": "4. 맘모스 쿠폰 보상 리스트 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "보상 리스트 [특등상] 스콜/기계 말류 알 초증구, 닉네임 변경권, 스텟초기화권, 장비 초기화권, 가블2, 배수의진3, 마수의 알, 교복울보변신템(3일) 기술확장권, 펫 학습팔찌, 경험치구슬(12h), 경험치구슬(8h), 경험치구슬(4h) 100회 확정보상: 흑풍"
+        "content": "보상 리스트 [특등상] 스콜/기계 말류 알 초증구, 닉네임 변경권, 스텟초기화권, 장비 초기화권, 가블2, 배수의진3, 마수의 알, 교복울보변신템(3일) 기술확장권, 펫 학습팔찌, 경험치구슬(12h), 경험치구슬(8h), 경험치구슬(4h) 100회 확정보상: 흑풍",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "5. 라돈타 상자 리스트 조정"
+        "content": "5. 라돈타 상자 리스트 조정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "라돈타 상자 획득 아이템 리스트 조정"
+        "content": "라돈타 상자 획득 아이템 리스트 조정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "6. 아이템 겹치기 개선 및 스킬 조정"
+        "content": "6. 아이템 겹치기 개선 및 스킬 조정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "배수의 진3, 가블3, 페트 학습 팔찌 아이템 겹치기 가능하도록 변경"
+        "content": "배수의 진3, 가블3, 페트 학습 팔찌 아이템 겹치기 가능하도록 변경",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "배수의 진3: 패치 후 명중율 -10%로 변경 (조정 이유: 과도한 강력함으로 인한 전체 밸런스 조정 목적)"
+        "content": "배수의 진3: 패치 후 명중율 -10%로 변경 (조정 이유: 과도한 강력함으로 인한 전체 밸런스 조정 목적)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 펫 관련 변경"
+        "content": "⚙️ 펫 관련 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 주작 펫 기능 오픈"
+        "content": "1. 주작 펫 기능 오픈",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "주작 (각성97%/변종3%) 기능 오픈 ※ 최근 변종 펫 출현 빈도로 인한 유저 불만 고려, 7월 말 청룡 변종 출시 후 당분간 변종 펫 출시 중단 예정"
+        "content": "주작 (각성97%/변종3%) 기능 오픈 ※ 최근 변종 펫 출현 빈도로 인한 유저 불만 고려, 7월 말 청룡 변종 출시 후 당분간 변종 펫 출시 중단 예정",
+        "heading": false
       },
       {
         "type": "image",
@@ -491,11 +596,13 @@
       },
       {
         "type": "text",
-        "content": "2. 환생 펫 추가"
+        "content": "2. 환생 펫 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "환생 펫 4마리 추가: 모사크, 오랑이류"
+        "content": "환생 펫 4마리 추가: 모사크, 오랑이류",
+        "heading": false
       },
       {
         "type": "image",
@@ -503,23 +610,28 @@
       },
       {
         "type": "text",
-        "content": "3. 신규 펫 출시"
+        "content": "3. 신규 펫 출시",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 펫 4마리 추가: 기계말류（전부 탑승가능）"
+        "content": "신규 펫 4마리 추가: 기계말류（전부 탑승가능）",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "2가지 획득 방식: 100만 충전 보상 / 맘모스 쿠폰"
+        "content": "2가지 획득 방식: 100만 충전 보상 / 맘모스 쿠폰",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "속성 선택: 알 오픈 시 4만 금화 사용 시 속성 선택 가능"
+        "content": "속성 선택: 알 오픈 시 4만 금화 사용 시 속성 선택 가능",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "설계 방향: 순발은 중간 수준으로 조절, 전체 성장률은 매우 높게 설정 (기존 펫과 차별화된 스탯 구성으로 PVE/PVP에서 다양하게 활용 기대)"
+        "content": "설계 방향: 순발은 중간 수준으로 조절, 전체 성장률은 매우 높게 설정 (기존 펫과 차별화된 스탯 구성으로 PVE/PVP에서 다양하게 활용 기대)",
+        "heading": false
       },
       {
         "type": "image",
@@ -531,31 +643,38 @@
       },
       {
         "type": "text",
-        "content": "향후 출시될 신규 펫들이 비슷한 스탯 구성을 갖는 것을 원하지 않습니다. 외관과 일부 속성 외에는 차이가 거의 없고 공격력과 순발력 위주로 설계되는 상황을 방지하고자 합니다."
+        "content": "향후 출시될 신규 펫들이 비슷한 스탯 구성을 갖는 것을 원하지 않습니다. 외관과 일부 속성 외에는 차이가 거의 없고 공격력과 순발력 위주로 설계되는 상황을 방지하고자 합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "이번 업데이트로 선보이는 기계 말류 펫은 기존과 다른 설계 방향을 적용했습니다. 순발은 중간 수준으로 조절했으며, 전체 성장률은 매우 높게 설정했습니다. 다양한 유형의 펫이 PVE 및 PVP 콘텐츠에서 활용되기를 기대합니다."
+        "content": "이번 업데이트로 선보이는 기계 말류 펫은 기존과 다른 설계 방향을 적용했습니다. 순발은 중간 수준으로 조절했으며, 전체 성장률은 매우 높게 설정했습니다. 다양한 유형의 펫이 PVE 및 PVP 콘텐츠에서 활용되기를 기대합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "앞으로도 밸런스를 지속적으로 모니터링하고 개선해 나갈 것이며, 이번에 【배수의 진3】 스킬을 조정한 것도 같은 취지입니다. 여러분의 많은 의견과 응원 부탁드립니다."
+        "content": "앞으로도 밸런스를 지속적으로 모니터링하고 개선해 나갈 것이며, 이번에 【배수의 진3】 스킬을 조정한 것도 같은 취지입니다. 여러분의 많은 의견과 응원 부탁드립니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 버그 오류 수정"
+        "content": "⚙️ 버그 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 인게임 랭킹 오류 수정"
+        "content": "1. 인게임 랭킹 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "인게임 랭킹 표시 오류 문제 수정 완료"
+        "content": "인게임 랭킹 표시 오류 문제 수정 완료",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "보다 안정적인 게임 서비스 환경을 위하여 지속적으로 시스템 개선을 진행하겠습니다. 유저 여러분의 많은 이용 부탁드립니다."
+        "content": "보다 안정적인 게임 서비스 환경을 위하여 지속적으로 시스템 개선을 진행하겠습니다. 유저 여러분의 많은 이용 부탁드립니다.",
+        "heading": false
       }
     ]
   },
@@ -567,23 +686,28 @@
     "blocks": [
       {
         "type": "text",
-        "content": "⚙️ 게임 업데이트 안내"
+        "content": "⚙️ 게임 업데이트 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "존경하는 유저 여러분, 2026년 5월 26일 20시20분에 (20분) 업데이트를 진행하겠습니다."
+        "content": "존경하는 유저 여러분, 2026년 5월 26일 20시20분에 (20분) 업데이트를 진행하겠습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 거래소 시스템 개선"
+        "content": "⚙️ 거래소 시스템 개선",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 거래소 신기능 추가"
+        "content": "1. 거래소 신기능 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "판매자 정보 공개 기능 추가"
+        "content": "판매자 정보 공개 기능 추가",
+        "heading": false
       },
       {
         "type": "image",
@@ -591,15 +715,18 @@
       },
       {
         "type": "text",
-        "content": "⚙️ 이펙트 시스템 개선"
+        "content": "⚙️ 이펙트 시스템 개선",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 삼위일체 극 이펙트 업데이트"
+        "content": "1. 삼위일체 극 이펙트 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "삼위일체 극 (+2 +2 +2) 달성 시 새로운 전용 이펙트 적용"
+        "content": "삼위일체 극 (+2 +2 +2) 달성 시 새로운 전용 이펙트 적용",
+        "heading": false
       },
       {
         "type": "image",
@@ -607,15 +734,18 @@
       },
       {
         "type": "text",
-        "content": "⚙️ 펫 시스템 업데이트"
+        "content": "⚙️ 펫 시스템 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 환생 펫 확정"
+        "content": "1. 환생 펫 확정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "추가 환생 펫 4마리: 파르체, 슈발리, 지발리, 샤르체"
+        "content": "추가 환생 펫 4마리: 파르체, 슈발리, 지발리, 샤르체",
+        "heading": false
       },
       {
         "type": "image",
@@ -623,19 +753,23 @@
       },
       {
         "type": "text",
-        "content": "2. 각성 펫 확정"
+        "content": "2. 각성 펫 확정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "주작 변종/각성 기능 추가 (다음주 중 업데이트 가능성 있음)"
+        "content": "주작 변종/각성 기능 추가 (다음주 중 업데이트 가능성 있음)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "3. 신규 펫 출시"
+        "content": "3. 신규 펫 출시",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 펫: 천마"
+        "content": "신규 펫: 천마",
+        "heading": false
       },
       {
         "type": "image",
@@ -647,11 +781,13 @@
       },
       {
         "type": "text",
-        "content": "4. 메가기룡 탑승 오픈 및 페트 이미지 변경"
+        "content": "4. 메가기룡 탑승 오픈 및 페트 이미지 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "메가기룡 탑승 기능 정식 오픈"
+        "content": "메가기룡 탑승 기능 정식 오픈",
+        "heading": false
       },
       {
         "type": "image",
@@ -659,15 +795,18 @@
       },
       {
         "type": "text",
-        "content": "5. 메가호크 펫 업데이트"
+        "content": "5. 메가호크 펫 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "환생 메가호크 탑승 이미지 변경"
+        "content": "환생 메가호크 탑승 이미지 변경",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "각성/변종 메가호크 탑승 기능 오픈 (이동 속도 기능 포함)"
+        "content": "각성/변종 메가호크 탑승 기능 오픈 (이동 속도 기능 포함)",
+        "heading": false
       },
       {
         "type": "image",
@@ -683,27 +822,33 @@
       },
       {
         "type": "text",
-        "content": "6. 공성마을 페트알 변경"
+        "content": "6. 공성마을 페트알 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "공성전 시작 시점에 별도 공지 예정"
+        "content": "공성전 시작 시점에 별도 공지 예정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 라돈타 시스템 편의성 개선"
+        "content": "⚙️ 라돈타 시스템 편의성 개선",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 라돈타 워프 기능 추가"
+        "content": "1. 라돈타 워프 기능 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "11층에서 NPC를 통해 20층으로 워프 가능"
+        "content": "11층에서 NPC를 통해 20층으로 워프 가능",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "상기 방식으로 100층까지 단계별 워프 지원"
+        "content": "상기 방식으로 100층까지 단계별 워프 지원",
+        "heading": false
       },
       {
         "type": "image",
@@ -711,91 +856,113 @@
       },
       {
         "type": "text",
-        "content": "⚙️ 맘모스 쿠폰 보상 변경"
+        "content": "⚙️ 맘모스 쿠폰 보상 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 맘모스 쿠폰 보상 리스트 업데이트"
+        "content": "1. 맘모스 쿠폰 보상 리스트 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "[특등상]"
+        "content": "[특등상]",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "초기화 횟수 증가석(100%)"
+        "content": "초기화 횟수 증가석(100%)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "초증구, 토우트, 흑우트, 정장툰가(흰), 가블2, 배수의진3, 계정펫창고추가권, 교복울보변신템(3일)"
+        "content": "초증구, 토우트, 흑우트, 정장툰가(흰), 가블2, 배수의진3, 계정펫창고추가권, 교복울보변신템(3일)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "기술확장권, 펫 학습팔찌, 경험치구슬(12h), 경험치구슬(8h), 경험치구슬(4h)"
+        "content": "기술확장권, 펫 학습팔찌, 경험치구슬(12h), 경험치구슬(8h), 경험치구슬(4h)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "100회 확정보상"
+        "content": "100회 확정보상",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "아스타로"
+        "content": "아스타로",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 아이템 및 보상 시스템 변경"
+        "content": "⚙️ 아이템 및 보상 시스템 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 얼음성 헤티아 상자 보상 변경"
+        "content": "1. 얼음성 헤티아 상자 보상 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "봉인열쇠를 절망열쇠로 변경"
+        "content": "봉인열쇠를 절망열쇠로 변경",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "2. 일일 레이드 보상 리스트 변경"
+        "content": "2. 일일 레이드 보상 리스트 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "100만 스톤 추가"
+        "content": "100만 스톤 추가",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "경험치구슬 시간 업그레이드 (1시간 → 4시간)"
+        "content": "경험치구슬 시간 업그레이드 (1시간 → 4시간)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "3. 패치 후 전체 유저 보상"
+        "content": "3. 패치 후 전체 유저 보상",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "전체 유저에게 절망의 열쇠 1개 지급 (1 캐릭터당 1개)"
+        "content": "전체 유저에게 절망의 열쇠 1개 지급 (1 캐릭터당 1개)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "4. 암흑 템 파편작 관련 변경"
+        "content": "4. 암흑 템 파편작 관련 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "2찬작 명칭을 고귀한 헤티아로 변경"
+        "content": "2찬작 명칭을 고귀한 헤티아로 변경",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "이미지"
+        "content": "이미지",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "업그레이드 전"
+        "content": "업그레이드 전",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "업그레이드 후"
+        "content": "업그레이드 후",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "업그레이드 증폭"
+        "content": "업그레이드 증폭",
+        "heading": false
       },
       {
         "type": "image",
@@ -803,15 +970,18 @@
       },
       {
         "type": "text",
-        "content": "찬란한 헤티아의 투구"
+        "content": "찬란한 헤티아의 투구",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "고귀한 헤티아의 투구"
+        "content": "고귀한 헤티아의 투구",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "순발 +5"
+        "content": "순발 +5",
+        "heading": false
       },
       {
         "type": "image",
@@ -819,15 +989,18 @@
       },
       {
         "type": "text",
-        "content": "찬란한 헤티아의 갑옷"
+        "content": "찬란한 헤티아의 갑옷",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "고귀한 헤티아의 갑옷"
+        "content": "고귀한 헤티아의 갑옷",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "방어 +5"
+        "content": "방어 +5",
+        "heading": false
       },
       {
         "type": "image",
@@ -835,15 +1008,18 @@
       },
       {
         "type": "text",
-        "content": "찬란한 헤티아의 창"
+        "content": "찬란한 헤티아의 창",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "고귀한 헤티아의 창"
+        "content": "고귀한 헤티아의 창",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "공격 +5"
+        "content": "공격 +5",
+        "heading": false
       },
       {
         "type": "image",
@@ -851,11 +1027,13 @@
       },
       {
         "type": "text",
-        "content": "찬란한 헤티아의 활"
+        "content": "찬란한 헤티아의 활",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "고귀한 헤티아의 활"
+        "content": "고귀한 헤티아의 활",
+        "heading": false
       },
       {
         "type": "image",
@@ -863,7 +1041,8 @@
       },
       {
         "type": "text",
-        "content": "신비한 헤티아의 투구"
+        "content": "신비한 헤티아의 투구",
+        "heading": false
       },
       {
         "type": "image",
@@ -871,7 +1050,8 @@
       },
       {
         "type": "text",
-        "content": "신비한 헤티아의 갑옷"
+        "content": "신비한 헤티아의 갑옷",
+        "heading": false
       },
       {
         "type": "image",
@@ -879,7 +1059,8 @@
       },
       {
         "type": "text",
-        "content": "신비한 헤티아의 창"
+        "content": "신비한 헤티아의 창",
+        "heading": false
       },
       {
         "type": "image",
@@ -887,39 +1068,48 @@
       },
       {
         "type": "text",
-        "content": "신비한 헤티아의 활[7-8회]"
+        "content": "신비한 헤티아의 활[7-8회]",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 버그 오류 수정"
+        "content": "⚙️ 버그 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 그래픽 오류 수정"
+        "content": "1. 그래픽 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "강화석25% 이미지 오류 수정"
+        "content": "강화석25% 이미지 오류 수정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "장비 강화 숫자/아이템 겹치기 숫자 표시 오류 수정"
+        "content": "장비 강화 숫자/아이템 겹치기 숫자 표시 오류 수정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "캐릭터 패드(정장툰가 흰) 아이템 이미지 수정"
+        "content": "캐릭터 패드(정장툰가 흰) 아이템 이미지 수정",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "2. 거래소 기능 수정"
+        "content": "2. 거래소 기능 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "거래소 거래내역 최신화 오류 수정 (이미 적용 완료)"
+        "content": "거래소 거래내역 최신화 오류 수정 (이미 적용 완료)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "보다 안정적인 게임 서비스 환경을 위하여 지속적으로 시스템 개선을 진행하겠습니다. 유저 여러분의 많은 이용 부탁드립니다."
+        "content": "보다 안정적인 게임 서비스 환경을 위하여 지속적으로 시스템 개선을 진행하겠습니다. 유저 여러분의 많은 이용 부탁드립니다.",
+        "heading": false
       }
     ]
   },
@@ -931,47 +1121,58 @@
     "blocks": [
       {
         "type": "text",
-        "content": "⚙️ 게임 업데이트 안내"
+        "content": "⚙️ 게임 업데이트 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "존경하는 유저 여러분, 2026년 5월 9일 20시에 1시간 동안 업데이트를 진행하겠습니다."
+        "content": "존경하는 유저 여러분, 2026년 5월 9일 20시에 1시간 동안 업데이트를 진행하겠습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 찬란 장비 업그레이드 시스템 개선"
+        "content": "⚙️ 찬란 장비 업그레이드 시스템 개선",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 찬란 장비 2단계 업그레이드 확률 조정"
+        "content": "1. 찬란 장비 2단계 업그레이드 확률 조정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "성공 확률: 60%"
+        "content": "성공 확률: 60%",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "실패 시 장비 보존 확률: 30%"
+        "content": "실패 시 장비 보존 확률: 30%",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "실패 시 장비 소멸 확률: 10%"
+        "content": "실패 시 장비 소멸 확률: 10%",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "이미지"
+        "content": "이미지",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "업그레이드 전"
+        "content": "업그레이드 전",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "업그레이드 후"
+        "content": "업그레이드 후",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "업그레이드 증폭"
+        "content": "업그레이드 증폭",
+        "heading": false
       },
       {
         "type": "image",
@@ -979,15 +1180,18 @@
       },
       {
         "type": "text",
-        "content": "암흑 헤티아 머리장식"
+        "content": "암흑 헤티아 머리장식",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "찬란한 헤티아의 투구"
+        "content": "찬란한 헤티아의 투구",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "순발 +5"
+        "content": "순발 +5",
+        "heading": false
       },
       {
         "type": "image",
@@ -995,15 +1199,18 @@
       },
       {
         "type": "text",
-        "content": "암흑 초신성 갑옷"
+        "content": "암흑 초신성 갑옷",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "찬란한 헤티아의 갑옷"
+        "content": "찬란한 헤티아의 갑옷",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "방어 +5"
+        "content": "방어 +5",
+        "heading": false
       },
       {
         "type": "image",
@@ -1011,15 +1218,18 @@
       },
       {
         "type": "text",
-        "content": "암흑 헤티아의 창"
+        "content": "암흑 헤티아의 창",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "찬란한 헤티아의 창"
+        "content": "찬란한 헤티아의 창",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "공격 +5"
+        "content": "공격 +5",
+        "heading": false
       },
       {
         "type": "image",
@@ -1027,55 +1237,68 @@
       },
       {
         "type": "text",
-        "content": "암흑 헤티아의 활[7-8회]"
+        "content": "암흑 헤티아의 활[7-8회]",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "찬란한 헤티아의 활"
+        "content": "찬란한 헤티아의 활",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "2. 찬란 장비 3단계 업그레이드 추가"
+        "content": "2. 찬란 장비 3단계 업그레이드 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "대상 장비: 총 4종"
+        "content": "대상 장비: 총 4종",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "성공 확률: 20%"
+        "content": "성공 확률: 20%",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "실패 시 장비 보존 확률: 80%"
+        "content": "실패 시 장비 보존 확률: 80%",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "실패 시 장비 소멸 확률: 0%"
+        "content": "실패 시 장비 소멸 확률: 0%",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "신비한 헤티아의 투구"
+        "content": "신비한 헤티아의 투구",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "신비한 헤티아의 갑옷"
+        "content": "신비한 헤티아의 갑옷",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "신비한 헤티아의 창"
+        "content": "신비한 헤티아의 창",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "신비한 헤티아의 활[7-8회]"
+        "content": "신비한 헤티아의 활[7-8회]",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "3. 암흑 장비 전용 이펙트 추가"
+        "content": "3. 암흑 장비 전용 이펙트 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "적용 이펙트: 삼위일체 극"
+        "content": "적용 이펙트: 삼위일체 극",
+        "heading": false
       },
       {
         "type": "image",
@@ -1083,39 +1306,48 @@
       },
       {
         "type": "text",
-        "content": "4. 맘모스 쿠폰 보상 변경"
+        "content": "4. 맘모스 쿠폰 보상 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 추가: 캐릭터 패드[정장인디언]"
+        "content": "신규 추가: 캐릭터 패드[정장인디언]",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[특별상] 페트 알(해빙룡)"
+        "content": "[특별상] 페트 알(해빙룡)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[1등상] 초증구, 스텟초구, 장초구, 캐릭터 패드[정장인디언]"
+        "content": "[1등상] 초증구, 스텟초구, 장초구, 캐릭터 패드[정장인디언]",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[2등상] 바우트, 배수의 진3, 계정 펫 창고 추가권, 교복 울보 변신 토템(3일)"
+        "content": "[2등상] 바우트, 배수의 진3, 계정 펫 창고 추가권, 교복 울보 변신 토템(3일)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[3등상] 기술 확장권, 펫 학습 팔찌, 경험치 구슬(8h), 경험치 구슬(4h)"
+        "content": "[3등상] 기술 확장권, 펫 학습 팔찌, 경험치 구슬(8h), 경험치 구슬(4h)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[참여상] 경험치 구슬(2h)"
+        "content": "[참여상] 경험치 구슬(2h)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "100회 확정보상: 홍모 탑승불가입니다.하기 사진 오류입니다.추후 수정 예정."
+        "content": "100회 확정보상: 홍모 탑승불가입니다.하기 사진 오류입니다.추후 수정 예정.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "1등상: 마수류 계열 알캐릭터 --> 패드[정장툰가(흰)] 으로 변경"
+        "content": "1등상: 마수류 계열 알캐릭터 --> 패드[정장툰가(흰)] 으로 변경",
+        "heading": false
       },
       {
         "type": "image",
@@ -1123,15 +1355,18 @@
       },
       {
         "type": "text",
-        "content": "⚙️ 펫 관련 업데이트"
+        "content": "⚙️ 펫 관련 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 신규 환생 펫 3종 추가"
+        "content": "1. 신규 환생 펫 3종 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "추가 펫: 메이란스, 코발스, 메가리스키"
+        "content": "추가 펫: 메이란스, 코발스, 메가리스키",
+        "heading": false
       },
       {
         "type": "image",
@@ -1139,11 +1374,13 @@
       },
       {
         "type": "text",
-        "content": "2. 펫 각성 및 변종 오픈"
+        "content": "2. 펫 각성 및 변종 오픈",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "대상 펫: 현무 (변종 이미지는 임시로 (골드색상 현무)이미지를 사용하며 추후 신규 이미지 제작완료시 교체할 예정입니다. 각성97%/변종3%)"
+        "content": "대상 펫: 현무 (변종 이미지는 임시로 (골드색상 현무)이미지를 사용하며 추후 신규 이미지 제작완료시 교체할 예정입니다. 각성97%/변종3%)",
+        "heading": false
       },
       {
         "type": "image",
@@ -1155,51 +1392,63 @@
       },
       {
         "type": "text",
-        "content": "⚙️ 아이템 속성 변경"
+        "content": "⚙️ 아이템 속성 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기존 귀속 아이템 2종을 비귀속 속성으로 변경 처리합니다."
+        "content": "기존 귀속 아이템 2종을 비귀속 속성으로 변경 처리합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "라돈타의 찬란한 파편"
+        "content": "라돈타의 찬란한 파편",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "암흑 헤티아의 파편"
+        "content": "암흑 헤티아의 파편",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "※ 변경 후 해당 아이템은 전부 비귀속 상태로 적용됩니다."
+        "content": "※ 변경 후 해당 아이템은 전부 비귀속 상태로 적용됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 버그 오류 수정"
+        "content": "⚙️ 버그 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 라돈타 진행중 보이는 시점 불일치 오류 수정"
+        "content": "1. 라돈타 진행중 보이는 시점 불일치 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "오류 내용: 가속 아이템 및 가속 펫 탑승 시 파티장, 파티원 간 시점 불일치 현상"
+        "content": "오류 내용: 가속 아이템 및 가속 펫 탑승 시 파티장, 파티원 간 시점 불일치 현상",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "수정 여부: 정상 수정 완료"
+        "content": "수정 여부: 정상 수정 완료",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "2. NPC 퀘스트 누락 오류 수정"
+        "content": "2. NPC 퀘스트 누락 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "대상 NPC: 에레보스(마을장)"
+        "content": "대상 NPC: 에레보스(마을장)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "오류 내용: 퀘스트 표시가 정상적으로 노출되지 않는 현상"
+        "content": "오류 내용: 퀘스트 표시가 정상적으로 노출되지 않는 현상",
+        "heading": false
       },
       {
         "type": "image",
@@ -1207,19 +1456,23 @@
       },
       {
         "type": "text",
-        "content": "3. 기타 오류 수정"
+        "content": "3. 기타 오류 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "랭킹펫 탑승 이펙트와 10강화 장비 이펙트를 동시에 표시할때 비정상적으로 보이는 현상을 수정하였습니다"
+        "content": "랭킹펫 탑승 이펙트와 10강화 장비 이펙트를 동시에 표시할때 비정상적으로 보이는 현상을 수정하였습니다",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "(안드로이드 / iOS) 기종에서 거래소 검색시 키보드 타자 위치가 어긋나는 현상을 수정하였습니다"
+        "content": "(안드로이드 / iOS) 기종에서 거래소 검색시 키보드 타자 위치가 어긋나는 현상을 수정하였습니다",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "보다 안정적인 게임 서비스 환경을 위하여 지속적으로 시스템 개선을 진행하겠습니다. 유저 여러분의 많은 이용 부탁드립니다."
+        "content": "보다 안정적인 게임 서비스 환경을 위하여 지속적으로 시스템 개선을 진행하겠습니다. 유저 여러분의 많은 이용 부탁드립니다.",
+        "heading": false
       }
     ]
   },
@@ -1231,59 +1484,73 @@
     "blocks": [
       {
         "type": "text",
-        "content": "⚙️ 게임 업데이트 안내"
+        "content": "⚙️ 게임 업데이트 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "존경하는 유저 여러분, 2026년 4월 18일 0시40분에 1시간 동안 업데이트를 진행하겠습니다."
+        "content": "존경하는 유저 여러분, 2026년 4월 18일 0시40분에 1시간 동안 업데이트를 진행하겠습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "⚙️ 서버 오픈 1주년 기념 한정 이벤트"
+        "content": "⚙️ 서버 오픈 1주년 기념 한정 이벤트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 한정 <야외 보스> 이벤트"
+        "content": "1. 한정 <야외 보스> 이벤트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "지역: 사이너스, 쟈루섬 전 지역(1채널)"
+        "content": "지역: 사이너스, 쟈루섬 전 지역(1채널)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "시간: 매일 15시 / 22시"
+        "content": "시간: 매일 15시 / 22시",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "기간: ~2026년 5월 6일 23:59"
+        "content": "기간: ~2026년 5월 6일 23:59",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "내용: 기간 중 지정 구역에 이동 가능한 보스가 생성되며, 5인 파티로 도전 가능합니다. 승리 시 《킬 보상상자》를 획득할 수 있습니다."
+        "content": "내용: 기간 중 지정 구역에 이동 가능한 보스가 생성되며, 5인 파티로 도전 가능합니다. 승리 시 《킬 보상상자》를 획득할 수 있습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "생성 수량: 15시 10마리 / 22시 30마리"
+        "content": "생성 수량: 15시 10마리 / 22시 30마리",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "보상 상자: 초기화횟수 증가석, 스텟초기화권, 장비초기화석, 절망의 열쇠, 봉인된 열쇠, 강화석(25%), 강화석(10%), 경험치 구슬(8시간), 경험치구슬(4시간), 경험치구슬(2시간)"
+        "content": "보상 상자: 초기화횟수 증가석, 스텟초기화권, 장비초기화석, 절망의 열쇠, 봉인된 열쇠, 강화석(25%), 강화석(10%), 경험치 구슬(8시간), 경험치구슬(4시간), 경험치구슬(2시간)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "2. 하늘에서 떨어지는 스톤 이벤트"
+        "content": "2. 하늘에서 떨어지는 스톤 이벤트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "지역: 사이너스 전 지역(1채널)"
+        "content": "지역: 사이너스 전 지역(1채널)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "조건: 서버 전체에서 <야외 보스> 20마리 누적 처치 시 발동"
+        "content": "조건: 서버 전체에서 <야외 보스> 20마리 누적 처치 시 발동",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "내용: 발동 시 지정 맵에 스톤 복주머니 200개가 생성되며, 대화로 획득 가능합니다. 각 복주머니는 1~9만 스톤이 지급됩니다."
+        "content": "내용: 발동 시 지정 맵에 스톤 복주머니 200개가 생성되며, 대화로 획득 가능합니다. 각 복주머니는 1~9만 스톤이 지급됩니다.",
+        "heading": false
       },
       {
         "type": "image",
@@ -1291,75 +1558,93 @@
       },
       {
         "type": "text",
-        "content": "3. 복귀 유저 이벤트"
+        "content": "3. 복귀 유저 이벤트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기간: 2026년 4월 20일 ~ 2026년 5월 20일 23:59"
+        "content": "기간: 2026년 4월 20일 ~ 2026년 5월 20일 23:59",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "조건: 금일 업데이트 전 마지막 로그인 기록이 2026년 2월 1일 이전이며, 5환 140레벨 이상인 유저"
+        "content": "조건: 금일 업데이트 전 마지막 로그인 기록이 2026년 2월 1일 이전이며, 5환 140레벨 이상인 유저",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "방법: 디스코드에서 GM-반키노에게 문의"
+        "content": "방법: 디스코드에서 GM-반키노에게 문의",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "복귀 유저 이벤트 보상 리스트는 이벤트 시작후 따로 공지 드리겠습니다."
+        "content": "복귀 유저 이벤트 보상 리스트는 이벤트 시작후 따로 공지 드리겠습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "4. 더블 경험치 이벤트"
+        "content": "4. 더블 경험치 이벤트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기간: 2025년 4월 18일 ~ 2025년 4월 23일 00:40"
+        "content": "기간: 2025년 4월 18일 ~ 2025년 4월 23일 00:40",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "내용: 서버 전체 두 배 경험치 120시간 적용"
+        "content": "내용: 서버 전체 두 배 경험치 120시간 적용",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "5. 1주년 14일 출석 이벤트"
+        "content": "5. 1주년 14일 출석 이벤트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기간: 업데이트 후 ~2026년 5월 6일 23:59"
+        "content": "기간: 업데이트 후 ~2026년 5월 6일 23:59",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "내용: 기간 중 매일 2시간 접속 시 보상 지급"
+        "content": "내용: 기간 중 매일 2시간 접속 시 보상 지급",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "보상 목록: 페트알 (모사크), 페트 학습 팔찌(7일), 경험치구슬 8시간, 강화석(+10%), 벽청의 소라 [2시간], 봉인의열쇠 1개, 정장툰가(흰색) 토템[3일], 페트 통조림(10분), 경험치구슬 24시간, 강화석(+25%), 봉인의열쇠1개, 전투포인트 5개, 절망의열쇠1개, 페트 알(레드프라키)"
+        "content": "보상 목록: 페트알 (모사크), 페트 학습 팔찌(7일), 경험치구슬 8시간, 강화석(+10%), 벽청의 소라 [2시간], 봉인의열쇠 1개, 정장툰가(흰색) 토템[3일], 페트 통조림(10분), 경험치구슬 24시간, 강화석(+25%), 봉인의열쇠1개, 전투포인트 5개, 절망의열쇠1개, 페트 알(레드프라키)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "6. 1주년 맘모스 쿠폰 오픈 이벤트"
+        "content": "6. 1주년 맘모스 쿠폰 오픈 이벤트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "내용: 기간 중 맘쿠 오픈 누적 횟수에 따라 추가 보상 지급"
+        "content": "내용: 기간 중 맘쿠 오픈 누적 횟수에 따라 추가 보상 지급",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "보상: 강화석(+10%)(5회), 강화석(+25%)(15회), 강화석(+25%) 2개(30회), 장비초기화석(88회), 페트 알(흑풍)(188회), 초기화 횟수 증가석(388회), 페트 알(해빙룡)(888회)"
+        "content": "보상: 강화석(+10%)(5회), 강화석(+25%)(15회), 강화석(+25%) 2개(30회), 장비초기화석(88회), 페트 알(흑풍)(188회), 초기화 횟수 증가석(388회), 페트 알(해빙룡)(888회)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "7. 1주년 목표 달성 보상"
+        "content": "7. 1주년 목표 달성 보상",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "내용: 주간 레이드 기계침공 25회, 얼음성 헤티아 15회, 절망의 열쇠 1회, 봉인의 열쇠 도전 2회 완료"
+        "content": "내용: 주간 레이드 기계침공 25회, 얼음성 헤티아 15회, 절망의 열쇠 1회, 봉인의 열쇠 도전 2회 완료",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "보상: 페트 알 (키오아치)"
+        "content": "보상: 페트 알 (키오아치)",
+        "heading": false
       },
       {
         "type": "image",
@@ -1367,43 +1652,53 @@
       },
       {
         "type": "text",
-        "content": "⚙️ 2.80 버전 업데이트 내용"
+        "content": "⚙️ 2.80 버전 업데이트 내용",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "1. 캐릭터 만렙 경험치 시스템 개방"
+        "content": "1. 캐릭터 만렙 경험치 시스템 개방",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "방법: 6환생 150레벨 달성 후, 두 배 경험치 아이템 사용 시 사냥 시 소량 경험치 추가 획득"
+        "content": "방법: 6환생 150레벨 달성 후, 두 배 경험치 아이템 사용 시 사냥 시 소량 경험치 추가 획득",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "용도: 초과 경험치로 아이템 교환 가능 (아이템: 돌파의 열매3)"
+        "content": "용도: 초과 경험치로 아이템 교환 가능 (아이템: 돌파의 열매3)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "2. 펫 150레벨 돌파 아이템 출시"
+        "content": "2. 펫 150레벨 돌파 아이템 출시",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "아이템 명: 돌파의열매 3"
+        "content": "아이템 명: 돌파의열매 3",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "방법: 6환생 150레벨 캐릭터 경험치 368만 + 스톤 18만으로 교환"
+        "content": "방법: 6환생 150레벨 캐릭터 경험치 368만 + 스톤 18만으로 교환",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "장소: 샴기르 마을 맵 (77.80)"
+        "content": "장소: 샴기르 마을 맵 (77.80)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "사용법: 145레벨 이상 펫 사용 시 1레벨 확률 돌파, 실패 페널티 없음"
+        "content": "사용법: 145레벨 이상 펫 사용 시 1레벨 확률 돌파, 실패 페널티 없음",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "최대 레벨: 이번 업데이트 후 148레벨까지 돌파 가능"
+        "content": "최대 레벨: 이번 업데이트 후 148레벨까지 돌파 가능",
+        "heading": false
       },
       {
         "type": "image",
@@ -1411,35 +1706,43 @@
       },
       {
         "type": "text",
-        "content": "3. 맘모스 쿠폰 보상 내용물 업데이트"
+        "content": "3. 맘모스 쿠폰 보상 내용물 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 추가: 2시간 경험치, 페트 알(해빙룡)"
+        "content": "신규 추가: 2시간 경험치, 페트 알(해빙룡)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[특별상] 페트 알(해빙룡)"
+        "content": "[특별상] 페트 알(해빙룡)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[1등상] 초증구, 스텟초구, 장초구, 마수 계열 레어 알"
+        "content": "[1등상] 초증구, 스텟초구, 장초구, 마수 계열 레어 알",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[2등상] 바우트, 배수의 진3, 계정 펫 창고 추가권, 교복 울보 변신 토템(3일)"
+        "content": "[2등상] 바우트, 배수의 진3, 계정 펫 창고 추가권, 교복 울보 변신 토템(3일)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[3등상] 기술 확장권, 펫 학습 팔찌, 경험치 구슬(8h), 경험치 구슬(4h)"
+        "content": "[3등상] 기술 확장권, 펫 학습 팔찌, 경험치 구슬(8h), 경험치 구슬(4h)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[참여상] 경험치 구슬(2h)"
+        "content": "[참여상] 경험치 구슬(2h)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "100회 확정보상: 홍모 탑승불가입니다.하기 사진 오류입니다.추후 수정 예정."
+        "content": "100회 확정보상: 홍모 탑승불가입니다.하기 사진 오류입니다.추후 수정 예정.",
+        "heading": false
       },
       {
         "type": "image",
@@ -1447,23 +1750,28 @@
       },
       {
         "type": "text",
-        "content": "4. 1회 충전 펫 알 보상 업데이트"
+        "content": "4. 1회 충전 펫 알 보상 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "30만: 늑인 계열 레어 알"
+        "content": "30만: 늑인 계열 레어 알",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "50만: 페트 알 (메카다이노)"
+        "content": "50만: 페트 알 (메카다이노)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "100만: 페트 알 (메이란스)"
+        "content": "100만: 페트 알 (메이란스)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "200만: 페트 알 (기계환룡)"
+        "content": "200만: 페트 알 (기계환룡)",
+        "heading": false
       },
       {
         "type": "image",
@@ -1475,23 +1783,28 @@
       },
       {
         "type": "text",
-        "content": "5. 기계환룡 전용 《속성 물약》 오픈"
+        "content": "5. 기계환룡 전용 《속성 물약》 오픈",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "획득: 스톤 800만"
+        "content": "획득: 스톤 800만",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "효과: 기계환룡 속성 화8풍2 ~ 풍8화2 사이로 무작위 리셋"
+        "content": "효과: 기계환룡 속성 화8풍2 ~ 풍8화2 사이로 무작위 리셋",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "6. 펫 환생 가능 펫 추가"
+        "content": "6. 펫 환생 가능 펫 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "목록: 돌북이(환), 산타베르가(환), 산타로스(환), 산타링코(환), 산타로비(환)"
+        "content": "목록: 돌북이(환), 산타베르가(환), 산타로스(환), 산타링코(환), 산타로비(환)",
+        "heading": false
       },
       {
         "type": "image",
@@ -1499,11 +1812,13 @@
       },
       {
         "type": "text",
-        "content": "7. 신규 펫 《레드프라키》 추가"
+        "content": "7. 신규 펫 《레드프라키》 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "획득: 골드 상점 10000 금화 구매 / 14일 출석 보상"
+        "content": "획득: 골드 상점 10000 금화 구매 / 14일 출석 보상",
+        "heading": false
       },
       {
         "type": "image",
@@ -1511,11 +1826,13 @@
       },
       {
         "type": "text",
-        "content": "8. 신규 펫 《은하다이노》 추가"
+        "content": "8. 신규 펫 《은하다이노》 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "획득: 스톤 상점 200만"
+        "content": "획득: 스톤 상점 200만",
+        "heading": false
       },
       {
         "type": "image",
@@ -1523,19 +1840,23 @@
       },
       {
         "type": "text",
-        "content": "9. 캐릭터 2가지 고정 스탯 설정 기능 오픈"
+        "content": "9. 캐릭터 2가지 고정 스탯 설정 기능 오픈",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "오픈 방법: 6환생 150레벨 달성 후, 샴기르 마을 동상(81.81)에서 NPC 스탯 연구원과 대화"
+        "content": "오픈 방법: 6환생 150레벨 달성 후, 샴기르 마을 동상(81.81)에서 NPC 스탯 연구원과 대화",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "오픈 비용: 금화 2만 + 스톤 2000만"
+        "content": "오픈 비용: 금화 2만 + 스톤 2000만",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "전환 비용: NPC 통해 전환 → 무료 / 캐릭터 패널 전환 → 1000금화/회"
+        "content": "전환 비용: NPC 통해 전환 → 무료 / 캐릭터 패널 전환 → 1000금화/회",
+        "heading": false
       },
       {
         "type": "image",
@@ -1543,7 +1864,8 @@
       },
       {
         "type": "text",
-        "content": "이용에 불편 없도록 최선을 다하겠습니다. 감사합니다."
+        "content": "이용에 불편 없도록 최선을 다하겠습니다. 감사합니다.",
+        "heading": false
       }
     ]
   },
@@ -1559,47 +1881,58 @@
       },
       {
         "type": "text",
-        "content": "청모, 라이비, 레이비가 VIP 상점에 추가되었습니다."
+        "content": "청모, 라이비, 레이비가 VIP 상점에 추가되었습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 환생 펫 추가"
+        "content": "신규 환생 펫 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "테이론(환)이 새롭게 추가되었습니다."
+        "content": "테이론(환)이 새롭게 추가되었습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 각성 펫 추가"
+        "content": "신규 각성 펫 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "백호(각), 뇌호(변종)이 추가되었습니다."
+        "content": "백호(각), 뇌호(변종)이 추가되었습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "계정 공유 창고 확장"
+        "content": "계정 공유 창고 확장",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "계정 내 공유 창고(아이템, 펫)의 저장 공간이 확장되었습니다."
+        "content": "계정 내 공유 창고(아이템, 펫)의 저장 공간이 확장되었습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "6환생 탑승 버그 수정"
+        "content": "6환생 탑승 버그 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "6환생 이후 발생하던 탑승 관련 오류가 수정되었습니다."
+        "content": "6환생 이후 발생하던 탑승 관련 오류가 수정되었습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "장비 강화 단계 추가"
+        "content": "장비 강화 단계 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기계 코어 장갑, 인어 벨트의 강화 단계가 추가되었습니다. (극의 장갑, 극의 벨트) +1,+1,+1 단계일때 극이 활성화 됩니다."
+        "content": "기계 코어 장갑, 인어 벨트의 강화 단계가 추가되었습니다. (극의 장갑, 극의 벨트) +1,+1,+1 단계일때 극이 활성화 됩니다.",
+        "heading": true
       },
       {
         "type": "image",
@@ -1615,67 +1948,83 @@
       },
       {
         "type": "text",
-        "content": "맘모스 쿠폰 보상 변경"
+        "content": "맘모스 쿠폰 보상 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "맘모스 쿠폰 사용 시 획득 가능한 아이템 목록이 아래와 같이 변경되었습니다."
+        "content": "맘모스 쿠폰 사용 시 획득 가능한 아이템 목록이 아래와 같이 변경되었습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "초증구"
+        "content": "초증구",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "스텟초구"
+        "content": "스텟초구",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "장초구"
+        "content": "장초구",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "바우트"
+        "content": "바우트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "계정 페트 창고 추가권"
+        "content": "계정 페트 창고 추가권",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "마수 계열 레어 알"
+        "content": "마수 계열 레어 알",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "교복 울보 변신 토템"
+        "content": "교복 울보 변신 토템",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "배수의 진"
+        "content": "배수의 진",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기술 확장권"
+        "content": "기술 확장권",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "경험치 구슬(8시간)"
+        "content": "경험치 구슬(8시간)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "페트 학습 팔찌"
+        "content": "페트 학습 팔찌",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "경험치 구슬(4시간)"
+        "content": "경험치 구슬(4시간)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "100회 확정보상 : 홍모"
+        "content": "100회 확정보상 : 홍모",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 펫 탑승 추가"
+        "content": "신규 펫 탑승 추가",
+        "heading": true
       },
       {
         "type": "image",
@@ -1695,7 +2044,8 @@
       },
       {
         "type": "text",
-        "content": "6환생 시스템 추가"
+        "content": "6환생 시스템 추가",
+        "heading": true
       },
       {
         "type": "image",
@@ -1707,63 +2057,78 @@
       },
       {
         "type": "text",
-        "content": "페트 환생 시스템 추가"
+        "content": "페트 환생 시스템 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "풍운룡"
+        "content": "풍운룡",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "천룡"
+        "content": "천룡",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "메가기룡"
+        "content": "메가기룡",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "페트 각성(변종) 시스템 추가"
+        "content": "페트 각성(변종) 시스템 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "금호(각), 금호(변종)"
+        "content": "금호(각), 금호(변종)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "르돈(각)"
+        "content": "르돈(각)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "비노(각)"
+        "content": "비노(각)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기로(각)"
+        "content": "기로(각)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기노(각)"
+        "content": "기노(각)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "카루(각)"
+        "content": "카루(각)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기타 NPC 수정"
+        "content": "기타 NPC 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "에레보스 진입 오류 정상 수정"
+        "content": "에레보스 진입 오류 정상 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "보상 페트 변경"
+        "content": "보상 페트 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기타 서버 안정화 작업 진행 사냥중 거래소 OPEN"
+        "content": "기타 서버 안정화 작업 진행 사냥중 거래소 OPEN",
+        "heading": true
       },
       {
         "type": "image",
@@ -1783,23 +2148,28 @@
       },
       {
         "type": "text",
-        "content": "환생 페트 추가"
+        "content": "환생 페트 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "환생 가능 펫이 추가됩니다."
+        "content": "환생 가능 펫이 추가됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "호크"
+        "content": "호크",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 페트 추가"
+        "content": "신규 페트 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "펜리"
+        "content": "펜리",
+        "heading": false
       },
       {
         "type": "image",
@@ -1807,7 +2177,8 @@
       },
       {
         "type": "text",
-        "content": "펜릭스"
+        "content": "펜릭스",
+        "heading": false
       },
       {
         "type": "image",
@@ -1815,7 +2186,8 @@
       },
       {
         "type": "text",
-        "content": "스콜"
+        "content": "스콜",
+        "heading": false
       },
       {
         "type": "image",
@@ -1823,71 +2195,88 @@
       },
       {
         "type": "text",
-        "content": "맘모스 쿠폰 구성품 변경"
+        "content": "맘모스 쿠폰 구성품 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "맘모스 쿠폰 구성품이 일부 변경됩니다."
+        "content": "맘모스 쿠폰 구성품이 일부 변경됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "초희귀 보상 추가"
+        "content": "초희귀 보상 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "일부 구성품 조정"
+        "content": "일부 구성품 조정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "정령왕의 방 보상 변경"
+        "content": "정령왕의 방 보상 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "정령왕의 방 보상이 일부 조정됩니다. 자세한 변경 사항은 게임 내에서 확인해주시기 바랍니다."
+        "content": "정령왕의 방 보상이 일부 조정됩니다. 자세한 변경 사항은 게임 내에서 확인해주시기 바랍니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "진행 중 이벤트 안내"
+        "content": "진행 중 이벤트 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "현재 다양한 이벤트가 진행 중입니다. 많은 참여 부탁드립니다."
+        "content": "현재 다양한 이벤트가 진행 중입니다. 많은 참여 부탁드립니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "VIP 펫 추가"
+        "content": "VIP 펫 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "VIP 펫 ‘호크’가 상점에 추가됩니다."
+        "content": "VIP 펫 ‘호크’가 상점에 추가됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "파투스 불빛 교환처 안내"
+        "content": "파투스 불빛 교환처 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "각 4대 마을에 교환 NPC가 설치됩니다."
+        "content": "각 4대 마을에 교환 NPC가 설치됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "샴기르"
+        "content": "샴기르",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "마리너스"
+        "content": "마리너스",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "쟈쟈"
+        "content": "쟈쟈",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "카루타나"
+        "content": "카루타나",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "각 마을을 방문하여 교환 NPC를 통해 파투스 불빛을 교환하실 수 있습니다."
+        "content": "각 마을을 방문하여 교환 NPC를 통해 파투스 불빛을 교환하실 수 있습니다.",
+        "heading": true
       },
       {
         "type": "image",
@@ -1907,43 +2296,53 @@
       },
       {
         "type": "text",
-        "content": "버그 수정"
+        "content": "버그 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "확인된 각종 버그가 수정되었습니다."
+        "content": "확인된 각종 버그가 수정되었습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "정령왕의 활 오류 수정 완료"
+        "content": "정령왕의 활 오류 수정 완료",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "앨범 관련 버그 수정"
+        "content": "앨범 관련 버그 수정",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "펫 환생 시스템 추가"
+        "content": "펫 환생 시스템 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "아래 펫에 환생 시스템 이 추가되었습니다."
+        "content": "아래 펫에 환생 시스템 이 추가되었습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "흑카키"
+        "content": "흑카키",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "본드래곤"
+        "content": "본드래곤",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "메피노"
+        "content": "메피노",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "모든 펫 돌파 아이템 사용 가능"
+        "content": "모든 펫 돌파 아이템 사용 가능",
+        "heading": true
       },
       {
         "type": "image",
@@ -1951,35 +2350,43 @@
       },
       {
         "type": "text",
-        "content": "기존: 환생 / 진화 / 변종 펫만 돌파 가능 해당 아이템은 골드샵에서 확인이 가능합니다"
+        "content": "기존: 환생 / 진화 / 변종 펫만 돌파 가능 해당 아이템은 골드샵에서 확인이 가능합니다",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "변경 : 환생, 진화, 변종 여부와 관계없이 모든 펫에 돌파 아이템 사용 가능"
+        "content": "변경 : 환생, 진화, 변종 여부와 관계없이 모든 펫에 돌파 아이템 사용 가능",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "모가로스류 각성 추가 아래 페트에 각성 시스템 이 추가됩니다."
+        "content": "모가로스류 각성 추가 아래 페트에 각성 시스템 이 추가됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "모가로스(환)"
+        "content": "모가로스(환)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "노르곤(환)"
+        "content": "노르곤(환)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "오가로스(환)"
+        "content": "오가로스(환)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "오르곤(환)"
+        "content": "오르곤(환)",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "모가로스류 펫은 환생 펫에 한해 각성이 가능합니다. *각성 시 진화의 열매가 필요합니다."
+        "content": "모가로스류 펫은 환생 펫에 한해 각성이 가능합니다. *각성 시 진화의 열매가 필요합니다.",
+        "heading": false
       },
       {
         "type": "image",
@@ -1991,103 +2398,128 @@
       },
       {
         "type": "text",
-        "content": "라돈타의 귀걸이(진) 아이템이 새롭게 추가됩니다. 아이템 조합은 다음과 같습니다 라돈타의 귀걸이+라돈타의 귀걸이(개)+1천만 스톤"
+        "content": "라돈타의 귀걸이(진) 아이템이 새롭게 추가됩니다. 아이템 조합은 다음과 같습니다 라돈타의 귀걸이+라돈타의 귀걸이(개)+1천만 스톤",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 펫 추가"
+        "content": "신규 펫 추가",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "새로운 펫이 추가됩니다."
+        "content": "새로운 펫이 추가됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "샴기르 점령전 콘텐츠 안내"
+        "content": "샴기르 점령전 콘텐츠 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "샴기르 점령전은 부족 단위로 진행되는 5vs5 전투 콘텐츠입니다."
+        "content": "샴기르 점령전은 부족 단위로 진행되는 5vs5 전투 콘텐츠입니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "전투 방식"
+        "content": "전투 방식",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "파티 전투가 아닌 개인 단위 입장 콘텐츠입니다."
+        "content": "파티 전투가 아닌 개인 단위 입장 콘텐츠입니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "입장 시 모든 파티는 자동으로 해제됩니다."
+        "content": "입장 시 모든 파티는 자동으로 해제됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "동일 부족으로 입장한 최대 5명은 자동으로 한 팀으로 판정됩니다."
+        "content": "동일 부족으로 입장한 최대 5명은 자동으로 한 팀으로 판정됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "파티는 존재하지 않으나, 전투는 자동으로 5vs5 팀전으로 진행됩니다."
+        "content": "파티는 존재하지 않으나, 전투는 자동으로 5vs5 팀전으로 진행됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "전투 판정 기준"
+        "content": "전투 판정 기준",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "동일 부족 유저는 아군으로 판정됩니다."
+        "content": "동일 부족 유저는 아군으로 판정됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "다른 부족 유저만 공격할 수 있습니다."
+        "content": "다른 부족 유저만 공격할 수 있습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "다대일 전투가 가능하며, 전투는 1vs1 구조가 아닙니다."
+        "content": "다대일 전투가 가능하며, 전투는 1vs1 구조가 아닙니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "힐 / 버프 적용 제한"
+        "content": "힐 / 버프 적용 제한",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "파티 힐 및 파티 버프 효과는 적용되지 않습니다."
+        "content": "파티 힐 및 파티 버프 효과는 적용되지 않습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "직접 대상 지정 스킬만 사용 가능합니다."
+        "content": "직접 대상 지정 스킬만 사용 가능합니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "탈락 및 종료 조건"
+        "content": "탈락 및 종료 조건",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "전투 중 패배 시 해당 캐릭터만 탈락 및 퇴장 처리됩니다."
+        "content": "전투 중 패배 시 해당 캐릭터만 탈락 및 퇴장 처리됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "탈락 이후 재입장은 불가능합니다."
+        "content": "탈락 이후 재입장은 불가능합니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "최종적으로 생존한 부족이 샴기르를 점령합니다."
+        "content": "최종적으로 생존한 부족이 샴기르를 점령합니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "참여 인원 제한"
+        "content": "참여 인원 제한",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "부족당 최대 5명까지 참여 가능합니다."
+        "content": "부족당 최대 5명까지 참여 가능합니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "점령 보상"
+        "content": "점령 보상",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "점령 1위 보상: 메가기로 (검은색 변종 테이노스)"
+        "content": "점령 1위 보상: 메가기로 (검은색 변종 테이노스)",
+        "heading": true
       },
       {
         "type": "image",
@@ -2111,43 +2543,53 @@
       },
       {
         "type": "text",
-        "content": "1. 펫 환생 시스템 추가"
+        "content": "1. 펫 환생 시스템 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "아래 펫에 환생 시스템 이 추가되었습니다."
+        "content": "아래 펫에 환생 시스템 이 추가되었습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "아이스만모"
+        "content": "아이스만모",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "예르체"
+        "content": "예르체",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "골드골로스"
+        "content": "골드골로스",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "초크론"
+        "content": "초크론",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "토우트"
+        "content": "토우트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "흑우트"
+        "content": "흑우트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "2. 맘모스 쿠폰 누적 보상 변경"
+        "content": "2. 맘모스 쿠폰 누적 보상 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "맘모스 쿠폰 누적 100 회차 보상 이 골드골로스 알 로 변경되었습니다. * 맘모스 쿠폰 사용 예시"
+        "content": "맘모스 쿠폰 누적 100 회차 보상 이 골드골로스 알 로 변경되었습니다. * 맘모스 쿠폰 사용 예시",
+        "heading": false
       },
       {
         "type": "image",
@@ -2159,35 +2601,43 @@
       },
       {
         "type": "text",
-        "content": "3. 이벤트 종료 안내"
+        "content": "3. 이벤트 종료 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "낚시 이벤트 가 종료되었습니다."
+        "content": "낚시 이벤트 가 종료되었습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "크리스마스 한정 레이드 상자 획득이 종료되었습니다."
+        "content": "크리스마스 한정 레이드 상자 획득이 종료되었습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "4. 충전 페트 변경"
+        "content": "4. 충전 페트 변경",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "충전 페트가 일부 구간에서 변경되었습니다."
+        "content": "충전 페트가 일부 구간에서 변경되었습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "자세한 내용은 이미지를 참고 해주시기 바랍니다."
+        "content": "자세한 내용은 이미지를 참고 해주시기 바랍니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "변경 대상:"
+        "content": "변경 대상:",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "테이루스"
+        "content": "테이루스",
+        "heading": true
       },
       {
         "type": "image",
@@ -2211,43 +2661,53 @@
       },
       {
         "type": "text",
-        "content": "﻿"
+        "content": "﻿",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "출시 펫"
+        "content": "출시 펫",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "골드 테이노스"
+        "content": "골드 테이노스",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "신규 금화 펫: 아리류"
+        "content": "신규 금화 펫: 아리류",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "출시 아이템"
+        "content": "출시 아이템",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "삼위일체(극)"
+        "content": "삼위일체(극)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "산타 양말"
+        "content": "산타 양말",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "기타 신규 아이템"
+        "content": "기타 신규 아이템",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "환생 펫 추가"
+        "content": "환생 펫 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "흑주작"
+        "content": "흑주작",
+        "heading": true
       },
       {
         "type": "image",
@@ -2267,55 +2727,68 @@
       },
       {
         "type": "text",
-        "content": "페트 환생 진화 추가"
+        "content": "페트 환생 진화 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "새로운 페트 환생 진화 가 추가됩니다. 대상 페트는 다음과 같습니다"
+        "content": "새로운 페트 환생 진화 가 추가됩니다. 대상 페트는 다음과 같습니다",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "샤크라"
+        "content": "샤크라",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "샤크라이"
+        "content": "샤크라이",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "메가흑곤"
+        "content": "메가흑곤",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "메가르곤"
+        "content": "메가르곤",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "프로돈"
+        "content": "프로돈",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "메가카키"
+        "content": "메가카키",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "베가"
+        "content": "베가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "블랙테이노스"
+        "content": "블랙테이노스",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "청룡"
+        "content": "청룡",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "아스타로"
+        "content": "아스타로",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "맘모스 쿠폰 아이템 변경"
+        "content": "맘모스 쿠폰 아이템 변경",
+        "heading": true
       },
       {
         "type": "image",
@@ -2323,11 +2796,13 @@
       },
       {
         "type": "text",
-        "content": "맘모스 쿠폰에서 히든! 캐릭터패드 정장툰가 가 새롭게 추가됩니다."
+        "content": "맘모스 쿠폰에서 히든! 캐릭터패드 정장툰가 가 새롭게 추가됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "일부 아이템 구성이 변경됩니다."
+        "content": "일부 아이템 구성이 변경됩니다.",
+        "heading": true
       },
       {
         "type": "image",
@@ -2335,7 +2810,8 @@
       },
       {
         "type": "text",
-        "content": "크리스마스 낚시 이벤트"
+        "content": "크리스마스 낚시 이벤트",
+        "heading": true
       },
       {
         "type": "image",
@@ -2343,7 +2819,8 @@
       },
       {
         "type": "text",
-        "content": "태풍의 세트 [순+30] 태풍의 창 [공+15] [방-10] [순+30] [체-15] [크리+5] 태풍의 갑옷 [공-10] [방+20] [순+30] [체+5]"
+        "content": "태풍의 세트 [순+30] 태풍의 창 [공+15] [방-10] [순+30] [체-15] [크리+5] 태풍의 갑옷 [공-10] [방+20] [순+30] [체+5]",
+        "heading": true
       },
       {
         "type": "image",
@@ -2355,7 +2832,8 @@
       },
       {
         "type": "text",
-        "content": "태풍의 목걸이 [공-10] [방+15] [순+10] 신목의 세트[방+40]"
+        "content": "태풍의 목걸이 [공-10] [방+15] [순+10] 신목의 세트[방+40]",
+        "heading": true
       },
       {
         "type": "image",
@@ -2363,7 +2841,8 @@
       },
       {
         "type": "text",
-        "content": "신목의 창 [공+20] [방+30][순-30][체+10][크리+5]"
+        "content": "신목의 창 [공+20] [방+30][순-30][체+10][크리+5]",
+        "heading": true
       },
       {
         "type": "image",
@@ -2371,7 +2850,8 @@
       },
       {
         "type": "text",
-        "content": "신목의 갑옷 [방+60] [순-30] [체+10] 신목의 목걸이 [방+10] [순-20] [체+10] 불꽃파편 세트 [공+40] 불꽃파편 도끼 [공+68] [방-20] [순-20] [크리+5] 불꽃파편 투구 [공+15] [방어+35] [순-20] [체+10] 불꽃파편 목걸이 [공+5] [방+7] [순-20] [체+10]"
+        "content": "신목의 갑옷 [방+60] [순-30] [체+10] 신목의 목걸이 [방+10] [순-20] [체+10] 불꽃파편 세트 [공+40] 불꽃파편 도끼 [공+68] [방-20] [순-20] [크리+5] 불꽃파편 투구 [공+15] [방어+35] [순-20] [체+10] 불꽃파편 목걸이 [공+5] [방+7] [순-20] [체+10]",
+        "heading": true
       },
       {
         "type": "image",
@@ -2395,31 +2875,38 @@
       },
       {
         "type": "text",
-        "content": "크리스마스 시즌에 맞춘 특별 낚시 이벤트가 열립 ﻿ 니다."
+        "content": "크리스마스 시즌에 맞춘 특별 낚시 이벤트가 열립 ﻿ 니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "이벤트 기간은 12월 10일부터~ 1월 5일까지 진행됩니다"
+        "content": "이벤트 기간은 12월 10일부터~ 1월 5일까지 진행됩니다",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "이벤트 기간 동안 특별 레이드 도 함께 추가됩니다. 레이드 참여 가능 기간은 12월 20일 ~ 1월5일 까지 입니다."
+        "content": "이벤트 기간 동안 특별 레이드 도 함께 추가됩니다. 레이드 참여 가능 기간은 12월 20일 ~ 1월5일 까지 입니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "페트 탑승 추가 안내"
+        "content": "페트 탑승 추가 안내",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "새로운 탑승 페트가 추가됩니다."
+        "content": "새로운 탑승 페트가 추가됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "풍백 탑승 추가"
+        "content": "풍백 탑승 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "10일: 울보소녀 탑승 추가"
+        "content": "10일: 울보소녀 탑승 추가",
+        "heading": true
       },
       {
         "type": "image",
@@ -2427,11 +2914,13 @@
       },
       {
         "type": "text",
-        "content": "20일: 석기미남 탑승 추가"
+        "content": "20일: 석기미남 탑승 추가",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "버그 수정"
+        "content": "버그 수정",
+        "heading": true
       },
       {
         "type": "image",
@@ -2439,23 +2928,28 @@
       },
       {
         "type": "text",
-        "content": "경매장에서 보이지 않던 140레벨 초과 페트가 정상적으로 표시 되도록 수정했습니다."
+        "content": "경매장에서 보이지 않던 140레벨 초과 페트가 정상적으로 표시 되도록 수정했습니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "경험치 이벤트"
+        "content": "경험치 이벤트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "패치 종료 이후부터 48시간 동안 경험치 2배 이벤트 가 진행됩니다."
+        "content": "패치 종료 이후부터 48시간 동안 경험치 2배 이벤트 가 진행됩니다.",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "⚙ 기타 업데이트"
+        "content": "⚙ 기타 업데이트",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "클라이언트 안정성이 더욱 향상되었습니다."
+        "content": "클라이언트 안정성이 더욱 향상되었습니다.",
+        "heading": true
       }
     ]
   },
@@ -2471,19 +2965,23 @@
       },
       {
         "type": "text",
-        "content": "[펫 최대 레벨 확장]"
+        "content": "[펫 최대 레벨 확장]",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "﻿ 기존 펫 최대 레벨 140 → 145로 확장 됩니다."
+        "content": "﻿ 기존 펫 최대 레벨 140 → 145로 확장 됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "본 확장은 환생 펫 및 진화 펫 에만 적용됩니다."
+        "content": "본 확장은 환생 펫 및 진화 펫 에만 적용됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "전용 아이템을 사용한 펫 에 한하여 레벨 제한 돌파가 가능합니다."
+        "content": "전용 아이템을 사용한 펫 에 한하여 레벨 제한 돌파가 가능합니다.",
+        "heading": false
       },
       {
         "type": "image",
@@ -2491,35 +2989,43 @@
       },
       {
         "type": "text",
-        "content": "※ 일반 펫은 기존과 동일하게 최대 140레벨까지만 육성 가능합니다."
+        "content": "※ 일반 펫은 기존과 동일하게 최대 140레벨까지만 육성 가능합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[재활용 포인트 상점 오픈]"
+        "content": "[재활용 포인트 상점 오픈]",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "140레벨 이상 펫을 재활용 하면 재활용 포인트 를 획득할 수 있습니다. ​"
+        "content": "140레벨 이상 펫을 재활용 하면 재활용 포인트 를 획득할 수 있습니다. ​",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "획득한 포인트는 재활용 포인트 상점 에서 다양한 아이템으로 교환할 수 있습니다."
+        "content": "획득한 포인트는 재활용 포인트 상점 에서 다양한 아이템으로 교환할 수 있습니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "[교환 가능 아이템 예시]"
+        "content": "[교환 가능 아이템 예시]",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "특별한 펫"
+        "content": "특별한 펫",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "진화의 물약"
+        "content": "진화의 물약",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "그 외 희귀 아이템 다수"
+        "content": "그 외 희귀 아이템 다수",
+        "heading": false
       },
       {
         "type": "image",
@@ -2527,7 +3033,8 @@
       },
       {
         "type": "text",
-        "content": "[신규 페트 추가] 신규 페트 지주작 마아곤 메가리스키 메가르곤"
+        "content": "[신규 페트 추가] 신규 페트 지주작 마아곤 메가리스키 메가르곤",
+        "heading": false
       },
       {
         "type": "image",
@@ -2535,7 +3042,8 @@
       },
       {
         "type": "text",
-        "content": "신규 던전 지옥문이 추가되었습니다 해당 던전은 \"주\"레이드로 일주일에 10번만 도전이 가능합니다."
+        "content": "신규 던전 지옥문이 추가되었습니다 해당 던전은 \"주\"레이드로 일주일에 10번만 도전이 가능합니다.",
+        "heading": false
       },
       {
         "type": "image",
@@ -2551,19 +3059,23 @@
       },
       {
         "type": "text",
-        "content": "보상 획득에는 5만 스톤 이 소모됩니다."
+        "content": "보상 획득에는 5만 스톤 이 소모됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "3단계 보상 까지 모두 획득할 경우, 총 15만 스톤 이 필요합니다."
+        "content": "3단계 보상 까지 모두 획득할 경우, 총 15만 스톤 이 필요합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "스톤이 부족한 경우, 보상 획득이 불가능 합니다."
+        "content": "스톤이 부족한 경우, 보상 획득이 불가능 합니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "새로운 환생 페트가 추가됩니다"
+        "content": "새로운 환생 페트가 추가됩니다",
+        "heading": false
       },
       {
         "type": "image",
@@ -2583,7 +3095,8 @@
       },
       {
         "type": "text",
-        "content": "I.신규 페트 추가 메가프라키 ﻿ 수9 지1 메가갈푸스 ﻿ 화7 수3 화이트드래곤 ﻿ 수7 화3 화이트드래곤(진) ﻿ 수7 화3 II.라돈타의 귀걸이(改) 추가"
+        "content": "I.신규 페트 추가 메가프라키 ﻿ 수9 지1 메가갈푸스 ﻿ 화7 수3 화이트드래곤 ﻿ 수7 화3 화이트드래곤(진) ﻿ 수7 화3 II.라돈타의 귀걸이(改) 추가",
+        "heading": false
       },
       {
         "type": "image",
@@ -2619,11 +3132,13 @@
       },
       {
         "type": "text",
-        "content": "※암흑 헤티아의 파편은 암흑헤티아에게 드랍됩니다."
+        "content": "※암흑 헤티아의 파편은 암흑헤티아에게 드랍됩니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "III.정령왕의 활 업그레이드 추가 ※정령왕의 활에 암흑헤티아 업그레이드가 추가됩니다. ※암흑 헤티아의 파편은 암흑헤티아에게 드랍됩니다. IIII. 울보소녀,사자소년,정글소녀,바람소년 흑카키 탑승이 추가됩니다 IIIII. 버그 FIX"
+        "content": "III.정령왕의 활 업그레이드 추가 ※정령왕의 활에 암흑헤티아 업그레이드가 추가됩니다. ※암흑 헤티아의 파편은 암흑헤티아에게 드랍됩니다. IIII. 울보소녀,사자소년,정글소녀,바람소년 흑카키 탑승이 추가됩니다 IIIII. 버그 FIX",
+        "heading": false
       },
       {
         "type": "image",
@@ -2635,23 +3150,28 @@
       },
       {
         "type": "text",
-        "content": "암흑 헤티아 세트 이펙트 적용안되는점이 수정되었습니다"
+        "content": "암흑 헤티아 세트 이펙트 적용안되는점이 수정되었습니다",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "※ 암흑 헤티아의 활은 찬란한 아이템으로 강화가능합니다"
+        "content": "※ 암흑 헤티아의 활은 찬란한 아이템으로 강화가능합니다",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "※ 암흑 헤티아의 활은 투구,갑옷과 함께 쓰면 세트효과 활성화와 이펙트가 활성화 됩니다"
+        "content": "※ 암흑 헤티아의 활은 투구,갑옷과 함께 쓰면 세트효과 활성화와 이펙트가 활성화 됩니다",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "※ 맘모스 쿠폰에 100회에 석기미남 랜덤 패드가 나옵니다."
+        "content": "※ 맘모스 쿠폰에 100회에 석기미남 랜덤 패드가 나옵니다.",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "※맘모스 쿠폰에서 낮은 확률로 메가프라키 알이 획득됩니다."
+        "content": "※맘모스 쿠폰에서 낮은 확률로 메가프라키 알이 획득됩니다.",
+        "heading": false
       }
     ]
   },
@@ -2667,11 +3187,13 @@
       },
       {
         "type": "text",
-        "content": "Ⅰ.신규 페트 추가 치크론 ﻿ 풍7 화3"
+        "content": "Ⅰ.신규 페트 추가 치크론 ﻿ 풍7 화3",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "초크론 지10 아비시니안 ﻿ 풍7 화3 리오다 풍7 지3 ﻿"
+        "content": "초크론 지10 아비시니안 ﻿ 풍7 화3 리오다 풍7 지3 ﻿",
+        "heading": true
       },
       {
         "type": "image",
@@ -2699,7 +3221,8 @@
       },
       {
         "type": "text",
-        "content": "로즈란 ﻿ 수7 지3 그란푸스 ﻿풍7 지3 로즈란스 ﻿ 수7 지3 SD언딘(진) ﻿ 화9 풍1 Ⅱ.아이템 각성 추가"
+        "content": "로즈란 ﻿ 수7 지3 그란푸스 ﻿풍7 지3 로즈란스 ﻿ 수7 지3 SD언딘(진) ﻿ 화9 풍1 Ⅱ.아이템 각성 추가",
+        "heading": true
       },
       {
         "type": "image",
@@ -2743,7 +3266,8 @@
       },
       {
         "type": "text",
-        "content": "※암흑 헤티아 업그레이드가 추가됩니다. ※라돈타의 귀걸이 업그레이드가 추가됩니다"
+        "content": "※암흑 헤티아 업그레이드가 추가됩니다. ※라돈타의 귀걸이 업그레이드가 추가됩니다",
+        "heading": true
       },
       {
         "type": "image",
@@ -2751,19 +3275,23 @@
       },
       {
         "type": "text",
-        "content": "Ⅵ.암흑 헤티아 전리품에 파편이 추가됩니다"
+        "content": "Ⅵ.암흑 헤티아 전리품에 파편이 추가됩니다",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "아이템 이미지"
+        "content": "아이템 이미지",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "이름"
+        "content": "이름",
+        "heading": false
       },
       {
         "type": "text",
-        "content": "설명"
+        "content": "설명",
+        "heading": false
       },
       {
         "type": "image",
@@ -2771,11 +3299,13 @@
       },
       {
         "type": "text",
-        "content": "정령왕의 활 [7-8회]"
+        "content": "정령왕의 활 [7-8회]",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "공 +30 ~ +35, 방 -10"
+        "content": "공 +30 ~ +35, 방 -10",
+        "heading": true
       },
       {
         "type": "image",
@@ -2783,15 +3313,18 @@
       },
       {
         "type": "text",
-        "content": "붉은 라돈타 반지"
+        "content": "붉은 라돈타 반지",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "공 +5 ~ +8, 방 +6 ~ +7, 순 -3 ~ -5"
+        "content": "공 +5 ~ +8, 방 +6 ~ +7, 순 -3 ~ -5",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "부활의 정령 Lv2"
+        "content": "부활의 정령 Lv2",
+        "heading": true
       },
       {
         "type": "image",
@@ -2799,11 +3332,13 @@
       },
       {
         "type": "text",
-        "content": "강화석 (+25%)"
+        "content": "강화석 (+25%)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "환수강림 +25% 강화석"
+        "content": "환수강림 +25% 강화석",
+        "heading": true
       },
       {
         "type": "image",
@@ -2811,11 +3346,13 @@
       },
       {
         "type": "text",
-        "content": "얼음성 [3포인트]"
+        "content": "얼음성 [3포인트]",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "사용 시 얼음성 포인트 [3포인트] 획득"
+        "content": "사용 시 얼음성 포인트 [3포인트] 획득",
+        "heading": true
       },
       {
         "type": "image",
@@ -2823,11 +3360,13 @@
       },
       {
         "type": "text",
-        "content": "강화석 (+10%)"
+        "content": "강화석 (+10%)",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "환수강림 +10% 강화석"
+        "content": "환수강림 +10% 강화석",
+        "heading": true
       },
       {
         "type": "image",
@@ -2835,11 +3374,13 @@
       },
       {
         "type": "text",
-        "content": "정령왕의 성스러운 돌"
+        "content": "정령왕의 성스러운 돌",
+        "heading": true
       },
       {
         "type": "text",
-        "content": "전설의 보석 신기한 힘을 가지고 있다."
+        "content": "전설의 보석 신기한 힘을 가지고 있다.",
+        "heading": true
       },
       {
         "type": "image",
